@@ -1,4 +1,4 @@
-# aci-bench
+# ACI-BENCH
 
 ##  Introduction 
 
@@ -7,7 +7,7 @@ This repository will contain the data and source code for:
 **ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation". Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Neal Snider, Thomas Lin, Meliha Yetisgen. Submitted to Nature Scientific Data, 2023.**
 
 ```
-@article{aci-demo,
+@article{aci-bench,
   author = {Wen-wai Yim and
                 Yujuan Fu and
                 Asma {Ben Abacha} and
@@ -20,9 +20,7 @@ This repository will contain the data and source code for:
 
 ## Data statistics
 
-ACI Challenge Dataset
-These include the data splits for the MEDIQA-CHAT 2023 (https://sites.google.com/view/mediqa2023/clinicalnlp-mediqa-chat-2023) and MEDIQA-SUM 2023 (https://www.imageclef.org/2023/medical/mediqa ) datasets.
-
+The ACI-BENCH collection consists of full doctor-patient conversations and associated clinical notes and includes the data splits from the [MEDIQA-CHAT 2023](https://sites.google.com/view/mediqa2023/clinicalnlp-mediqa-chat-2023) and [MEDIQA-SUM 2023](https://www.imageclef.org/2023/medical/mediqa) challenges: 
 ```
 TRAIN: 67
 VALID: 20
