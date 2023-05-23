@@ -8,7 +8,7 @@ This repository will contain the data and source code for:
 
 ```
 @article{aci-bench,
-  author = {Wen-wai Yim and
+  author = {Wen{-}wai Yim and
                 Yujuan Fu and
                 Asma {Ben Abacha} and
                 Neal Snider and Thomas Lin and Meliha Yetisgen},
