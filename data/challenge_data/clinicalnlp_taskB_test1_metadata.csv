@@ -1,0 +1,41 @@
+dataset,encounter_id,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtassist,D2N088,VA045,,male,59,Andrew,Campbell,upper respiratory infection,depression;type two diabetes;hypertension
+virtassist,D2N089,VA046,,female,52,Andrea,Roberts,annual exam,RA;artrial fibrillation;reflux
+virtassist,D2N090,VA050,,male,62,Albert,Powell,ER follow-up ,depression;type 2 diabetes;kidney transplant
+virtassist,D2N091,VA015,,male,54,Jerry,Nguyen,annual exam,osteoporosis;multiple sclerosis
+virtassist,D2N092,VA025,,female,43,,Martinez,right arm pain,allergies
+virtassist,D2N093,VA017,,male,62,Lawrence,Walker,shortness of breath,type 1 diabetes;congestive heart failure;depression;reflux
+virtassist,D2N094,VA023,,female,42,,James,right index finger pain,chronic constipation;hx appendectomy
+virtassist,D2N095,VA044,,female,34,Cheryl,Ramirez,back pain,hypertension
+virtassist,D2N096,VA019,,female,44,,Anderson,left shoulder pain,
+virtassist,D2N097,VA014,,female,66,Elizabeth,Peterson,annual exam,depression;hypertension
+virtscribe,D2N098,VS017,isabella,male ,64,jose,james,left shoulder and elbow pain ,wrist pain 
+virtscribe,D2N099,VS033,,male ,9-month,randy,gutierrez,Cough; nasal congestion; rhinorrhea,dandruff
+virtscribe,D2N100,VS003,juan price,female ,15,kayla,ward,acne,moles
+virtscribe,D2N101,VS035,gonzales,female ,25,julia,jones,macromastia ,none
+virtscribe,D2N102,VS038,,female,41,kelly,wood,hematuria,Chronic urolithiasis
+virtscribe,D2N103,VS000,hughes,female ,58,melissa,sanchez,follow up on mitral valve repair,none
+virtscribe,D2N104,VS037,,female ,61,judy,gomez,Psoriatic arthritis,none
+virtscribe,D2N105,VS002,,female ,100,diana,scott,heart murmur,hypolipidemia; dizziness; lightheadedness 
+aci,D2N106,ACI066,,male,45.0,kimberly,sullivan,Allergic asthma,
+aci,D2N107,ACI086,,male,39.0,bryan,brooks,Low back pain,
+aci,D2N108,ACI009,,male,40.0,Gregory,Hernandez,right foot ulcer,
+aci,D2N109,ACI072,,female,36.0,stephanie,morales,Left ankle pain,Diabetes Type 2;hypertension
+aci,D2N110,ACI062,,male,43.0,wayne,jenkins,evaluation of right foot wound ,Diabetes 
+aci,D2N111,ACI015,,male,57.0,William,Russell,right knee injury,hypertension;diabetes type 2
+aci,D2N112,ACI024,,male,44.0,Matthew,Hill,back pain,
+aci,D2N113,ACI077,,female,,jacqueline,,Hepatitis C,
+aci,D2N114,ACI045,,female,33.0,Julie,Jenkins,headaches,
+aci,D2N115,ACI107,,male,40.0,jack,torres,neck pain,
+aci,D2N116,ACI088,,male,56.0,bobby,flores,Right shoulder pain,Foot pain
+aci,D2N117,ACI047,,male,45.0,mark,jackson,elbow pain,
+aci,D2N118,ACI052,,female,,angela,,Kidney stone,hypertension;diabetes
+aci,D2N119,ACI043,,female,,Betty,,asthma,
+aci,D2N120,ACI098,,male,41.0,larry,garcia,back pain,
+aci,D2N121,ACI017,,male,,,,right knee pain,hypertension
+aci,D2N122,ACI060,,male,,kyle,,cough,rheumatoid arthritis 
+aci,D2N123,ACI084,,male,56.0,tyler,green,Difficulty swallowing,Diabetes;High blood pressure
+aci,D2N124,ACI000,michael,male,45.0,Jerry,Cook,right ankle injury ,
+aci,D2N125,ACI033,cruz,male,54.0,,edwards,Right-sided facial pain,
+aci,D2N126,ACI010,,female,44.0,Michelle,King,right knee injury,
+aci,D2N127,ACI008,,male,46.0,Brandon,Green,neck pain,body spasms;arm and leg numbness

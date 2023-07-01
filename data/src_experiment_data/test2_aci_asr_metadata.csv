@@ -1,0 +1,23 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+aci,ACI056,,male,,bobby,,abdominal pain,type 2 diabetes
+aci,ACI101,,male,67.0,matthew,allen,Right shoulder injury,
+aci,ACI099,,male,57.0,jeremy,adams,low back pain,
+aci,ACI018,,male,57.0,Dennis,,shortness of breath with hemoptysis,diabetes;hypertension
+aci,ACI029,,male,36.0,Scott,Miller,right knee injury,
+aci,ACI094,,female,33.0,teresa,sullivan,right elbow pain,hypertension;diabetes type 2
+aci,ACI057,,male,,noah,,back pain,diabetes
+aci,ACI089,,male,68.0,gregory,price,LCL strain of the right knee,
+aci,ACI105,,male,46.0,dennis,martin,right heel pain,
+aci,ACI007,,female,77.0,Christina,Cooper,non-healing right foot ulcer,increased drainage;fatigue
+aci,ACI022,,female,,Jullia,,follow-up status post inferior STEM,
+aci,ACI034,,male,,Jose,,follow-up,
+aci,ACI065,,female,31.0,barbara,,abdominal pain,Diabetes Type 2;Asthma
+aci,ACI079,,female,33.0,alexis,Gutierrez,right hand pain,
+aci,ACI023,,male,,Phillip,,right elbow pain ,hypertension;diabetes
+aci,ACI055,,male,82.0,kevin,,Hospital follow-up after acute on chronic CHF exacerbation,hypertension;stage 3 chronic kidney disease
+aci,ACI097,,male,42.0,gregory,hernandez,Right ankle pain and swelling,
+aci,ACI058,,female,17.0,julie,cruz,hypercholesterolemia,
+aci,ACI085,,female,53.0,elizabeth,,Chest pain,
+aci,ACI106,,female,30.0,sophia,jackson,Bilateral knee pain,
+aci,ACI109,,male,58.0,kyle,morales,low back pain,
+aci,ACI095,,female,81.0,angela,powell,left knee pain,

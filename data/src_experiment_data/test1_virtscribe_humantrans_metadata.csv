@@ -1,0 +1,9 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtscribe,VS017,isabella,male ,64,jose,james,left shoulder and elbow pain ,wrist pain 
+virtscribe,VS033,,male ,9-month,randy,gutierrez,Cough; nasal congestion; rhinorrhea,dandruff
+virtscribe,VS003,juan price,female ,15,kayla,ward,acne,moles
+virtscribe,VS035,gonzales,female ,25,julia,jones,macromastia ,none
+virtscribe,VS038,,female,41,kelly,wood,hematuria,Chronic urolithiasis
+virtscribe,VS000,hughes,female ,58,melissa,sanchez,follow up on mitral valve repair,none
+virtscribe,VS037,,female ,61,judy,gomez,Psoriatic arthritis,none
+virtscribe,VS002,,female ,100,diana,scott,heart murmur,hypolipidemia; dizziness; lightheadedness 

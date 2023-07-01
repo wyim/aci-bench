@@ -1,0 +1,23 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+aci,ACI000,michael,male,45.0,Jerry,Cook,right ankle injury ,
+aci,ACI008,,male,46.0,Brandon,Green,neck pain,body spasms;arm and leg numbness
+aci,ACI009,,male,40.0,Gregory,Hernandez,right foot ulcer,
+aci,ACI010,,female,44.0,Michelle,King,right knee injury,
+aci,ACI015,,male,57.0,William,Russell,right knee injury,hypertension;diabetes type 2
+aci,ACI017,,male,,,,right knee pain,hypertension
+aci,ACI024,,male,44.0,Matthew,Hill,back pain,
+aci,ACI033,cruz,male,54.0,,edwards,Right-sided facial pain,
+aci,ACI043,,female,,Betty,,asthma,
+aci,ACI045,,female,33.0,Julie,Jenkins,headaches,
+aci,ACI047,,male,45.0,mark,jackson,elbow pain,
+aci,ACI052,,female,,angela,,Kidney stone,hypertension;diabetes
+aci,ACI060,,male,,kyle,,cough,rheumatoid arthritis 
+aci,ACI062,,male,43.0,wayne,jenkins,evaluation of right foot wound ,Diabetes 
+aci,ACI066,,male,45.0,kimberly,sullivan,Allergic asthma,
+aci,ACI072,,female,36.0,stephanie,morales,Left ankle pain,Diabetes Type 2;hypertension
+aci,ACI077,,female,,jacqueline,,Hepatitis C,
+aci,ACI084,,male,56.0,tyler,green,Difficulty swallowing,Diabetes;High blood pressure
+aci,ACI086,,male,39.0,bryan,brooks,Low back pain,
+aci,ACI088,,male,56.0,bobby,flores,Right shoulder pain,Foot pain
+aci,ACI098,,male,41.0,larry,garcia,back pain,
+aci,ACI107,,male,40.0,jack,torres,neck pain,

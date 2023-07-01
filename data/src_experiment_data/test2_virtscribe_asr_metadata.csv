@@ -1,0 +1,9 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtscribe,VS001,,male ,49,jordan,roberts,high blood pressure; palpitations,none
+virtscribe,VS005,,female ,40,jacqueline,miller,perioral dermatitis,ocular rosacae
+virtscribe,VS008,diaz,female ,23,grace,ross,full spectrum STD testing,none
+virtscribe,VS009,,female ,72,amanda,taylor,hypertension,"alcohol use disorder, mild hypercholesterolemia"
+virtscribe,VS013,,female ,32,brittany,edwards,IBS,"nausea, vomiting"
+virtscribe,VS019,,female ,20,emily,hernandez,follow up for asthma; allergic rhinitis; food allergy,none
+virtscribe,VS025,,male ,86,christopher,watson,Follow up adult hydrocephalus,none
+virtscribe,VS036,,male ,72,tyler,nelson,rheumatoid arthritis,edema 

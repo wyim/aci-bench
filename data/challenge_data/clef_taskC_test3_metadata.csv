@@ -1,0 +1,41 @@
+dataset,encounter_id,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtassist,D2N168,VA013,,female,28,Diane,Baker,ER follow-up,type 2 diabetes;depression;hypertension
+virtassist,D2N169,VA039,,male,61,Alan,Butler,shortness of breath,migraines;reflux;hx cataract surgery
+virtassist,D2N170,VA009,,female,50,Joyce,Price,abnormal lab finding,COPD;congestive heart failure
+virtassist,D2N171,VA008,,female,56,Evelyn,Morris,annual exam,coronary artery disease;hx carpal tunnel release;hx herniated disc
+virtassist,D2N172,VA006,,male,50,Roy,Sanchez,abnormal labs,hypertension;depression 
+virtassist,D2N173,VA005,,male,57,Logan,Harris,upper respiratory infection,coronary artery bypass grafting;hyperlipidemia;ocd
+virtassist,D2N174,VA053,,male,57,James,Moore,joint pain,coronary artery disease;lupus
+virtassist,D2N175,VA007,,female,39,Natalie,Price,abnormal labs,hypertension;type 2 diabetes;hx right acl repair
+virtassist,D2N176,VA012,,male,62,Alexander,Myers,chronic problems,reflux
+virtassist,D2N177,VA018,,male,60,Bruce,Howard,chronic problems,depression;type 2 diabetes;hypertension
+virtscribe,D2N178,VS007,,female ,75,maria,martin,diabetes follow up,urination
+virtscribe,D2N179,VS022,martinez,male ,60,elijah,cook,numbness and tingling of hands,none
+virtscribe,D2N180,VS023,lopez,female ,60,shirley,taylor,bilateral hand numbness and tingling ,none
+virtscribe,D2N181,VS012,phillips,female ,35,michelle,king,acid reflux ,stress
+virtscribe,D2N182,VS018,,female ,39,michelle,king,follow up visit ,quadriplegia; covid-19 vaccine 
+virtscribe,D2N183,VS004,,male ,14,Matthew,Rogers,follow up acne,none
+virtscribe,D2N184,VS030,,female ,44,stephanie,morales,postoperative right medial knee unicompartmental arthroplasty follow up ,none
+virtscribe,D2N185,VS020,rogers,female ,14,ashley,james,abnormal renal ultrasound with atrophic right kidney,none
+aci,D2N186,ACI064,,male,35.0,sean,phillips,Left sided low back pain,
+aci,D2N187,ACI083,,female,,emily,,changes in vision,
+aci,D2N188,ACI111,,male,28.0,jacqueline,price,Right ankle injury,
+aci,D2N189,ACI046,,male,,betty,,follow up,
+aci,D2N190,ACI003,,female,35.0,33,Howard,right knee pain,
+aci,D2N191,ACI013,,male,45.0,Zachary,Wood,left arm pain,chest pain
+aci,D2N192,ACI039,,female,34.0,Karen,,abdominal pain,chronic migraines;hypertension
+aci,D2N193,ACI049,,,,hannah,,cough,
+aci,D2N194,ACI068,,female,50.0,betty,rogers,Left shoulder pain,
+aci,D2N195,ACI012,,male,40.0,Matthew,Allen,right knee pain,hypertension;diabetes
+aci,D2N196,ACI061,,male,67.0,jerry,thompson,elevated and fluctuating BP,hypertension;hyperlipidemia; osteoarthritis 
+aci,D2N197,ACI036,,female,37.0,Donna,,headache,hypertension;diabetes 
+aci,D2N198,ACI002,,male,,Michael,,back pain,strep throat 
+aci,D2N199,ACI078,,male,74.0,billy,,cough,
+aci,D2N200,ACI021,,female,,Theresa,,headache and high blood pressure,type 2 diabetes
+aci,D2N201,ACI014,,male,60.0,Steven,Reed,back pain,
+aci,D2N202,ACI091,,female,36.0,sharon,wright,Right Shoulder pain,
+aci,D2N203,ACI063,,male,,matthew,,wet macular degeneration,high blood pressure
+aci,D2N204,ACI096,,male,42.0,joe,reed,right knee injury,right shoulder pain and bruising
+aci,D2N205,ACI019,,female,,Angela,,follow-up for lung cancer,pneumonitis
+aci,D2N206,ACI087,,male,18.0,joshua,reyes,Right flank pain,
+aci,D2N207,ACI042,,male,,Frank,,heart failure exacerbation,coronary artery disease;Stage 3 chronic kidney disease and possible gout flare

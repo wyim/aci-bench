@@ -1,0 +1,5 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtscribe,VS014,,female ,65,christina,cooper,iron deficiency anemia ,chilling sensation; anxiety; depression 
+virtscribe,VS024,flores,male ,52,bruce,ward,Pituitary lesion,headaches
+virtscribe,VS015,sanders,female ,53,betty,hill,"chest pain, suspected esophagitis",anxiety 
+virtscribe,VS021,evelyn,female ,22-month,katherine,lopez,renal screening tests,none

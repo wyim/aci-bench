@@ -1,0 +1,9 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtscribe,VS004,,male ,14,Matthew,Rogers,follow up acne,none
+virtscribe,VS007,,female ,75,maria,martin,diabetes follow up,urination
+virtscribe,VS012,phillips,female ,35,michelle,king,acid reflux ,stress
+virtscribe,VS018,,female ,39,michelle,king,follow up visit ,quadriplegia; covid-19 vaccine 
+virtscribe,VS020,rogers,female ,14,ashley,james,abnormal renal ultrasound with atrophic right kidney,none
+virtscribe,VS022,martinez,male ,60,elijah,cook,numbness and tingling of hands,none
+virtscribe,VS023,lopez,female ,60,shirley,taylor,bilateral hand numbness and tingling ,none
+virtscribe,VS030,,female ,44,stephanie,morales,postoperative right medial knee unicompartmental arthroplasty follow up ,none

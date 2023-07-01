@@ -1,0 +1,12 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+aci,ACI005,,male,,Russell,,right-sided abdominal pain,
+aci,ACI006,,female,53.0,Beverly,,follow-up for lung cancer,pneumonitis;painful swallowing
+aci,ACI011,,male,45.0,Nicholas,Gutierrez,non-healing right foot ulcer,coughing and shortness of breath
+aci,ACI026,,male,,Philip,,right knee pain ,hypertension
+aci,ACI030,,male,,David,,follow up,
+aci,ACI041,,male,46.0,Kyle,Lee,low immunoglobulin A level,
+aci,ACI051,,,,richard,,tick bite,hypertension;type 2 diabetes
+aci,ACI067,,female,34.0,andrea,barnes,Left knee pain,hypertension;type 2 diabetes
+aci,ACI081,,male,45.0,lawrence,butler,right elbow pain,
+aci,ACI103,,male,66.0,wayne,taylor,left shoulder pain,
+aci,ACI110,,female,61.0,diana,scott,Right wrist injury,

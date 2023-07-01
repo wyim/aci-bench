@@ -1,0 +1,13 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtscribe,VS006,,female ,39,christine,hernandez,hypothyroidism ,weight loss; acne
+virtscribe,VS010,,female ,71,nicole,miller,follow up visit ,colonoscopy
+virtscribe,VS011,edwards,male ,42,patrick,allen,abdominal pain; diarrhea,hepatomegaly
+virtscribe,VS016,,male ,61,eugene,walker,follow up visit of chronic medical conditions,fatigue; pursed lips breathing; nodule on epididymis 
+virtscribe,VS026,,female ,40,donna,tores,follow-up bilateral breast cysts,anxiety; itchiness
+virtscribe,VS027,stewart,female ,75,sophia,brown,right ductal carcinoma in situ,none
+virtscribe,VS028,,female ,57,sophia,jackson,melanoma ,none
+virtscribe,VS029,,male ,50,philip,gutierrez,right index finger hyperextension ,none
+virtscribe,VS031,,female ,56,michelle,king,right hip pain,bulging discs
+virtscribe,VS032,miller,male ,,donald,clark,left arm pain ,hand pain 
+virtscribe,VS034,,female ,36,pamela,cook,follow up on bilateral reduction mammoplasty ,scar tissue
+virtscribe,VS039,,male,59,paul,edwards,hypogonadism ,gynecomastia

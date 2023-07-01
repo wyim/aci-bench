@@ -1,0 +1,41 @@
+dataset,encounter_id,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+virtassist,D2N128,VA037,,female,29,Carolyn,Garcia,chronic problems,osteoarthritis;gout;psoriasis
+virtassist,D2N129,VA002,,female,24,Beverly,Ortiz,annual exam,type 2 diabetes;hypertension
+virtassist,D2N130,VA042,,female,26,Anna,Morris,joint pain,epilepsy;depression;peptic ulcer disease
+virtassist,D2N131,VA033,,female,26,Susan,Watson,high blood pressure check,hx kidney transplant
+virtassist,D2N132,VA021,,female,40,,Lee,back pain,lumbar fusion;anxiety
+virtassist,D2N133,VA000,,female,27,Rebecca,Thompson,joint pain,carpal tunnel release;chronic back pain;depression
+virtassist,D2N134,VA043,,female,31,Michelle,,abnormal labs for Lyme titer,type 2 diabetes;hypertension
+virtassist,D2N135,VA034,,female,52,Hannah,Phillips,high blood sugar,osteoarthritis;atrial fibrillation
+virtassist,D2N136,VA030,,female,33,Janet,Sullivan,joint pain knees bilaterally,right rotator cuff repair;diabetes;hypertension
+virtassist,D2N137,VA001,,female,63,Christine,Flores,annual exam,hypertension;depression;carpal tunnel release
+virtscribe,D2N138,VS019,,female ,20,emily,hernandez,follow up for asthma; allergic rhinitis; food allergy,none
+virtscribe,D2N139,VS001,,male ,49,jordan,roberts,high blood pressure; palpitations,none
+virtscribe,D2N140,VS013,,female ,32,brittany,edwards,IBS,"nausea, vomiting"
+virtscribe,D2N141,VS025,,male ,86,christopher,watson,Follow up adult hydrocephalus,none
+virtscribe,D2N142,VS009,,female ,72,amanda,taylor,hypertension,"alcohol use disorder, mild hypercholesterolemia"
+virtscribe,D2N143,VS008,diaz,female ,23,grace,ross,full spectrum STD testing,none
+virtscribe,D2N144,VS036,,male ,72,tyler,nelson,rheumatoid arthritis,edema 
+virtscribe,D2N145,VS005,,female ,40,jacqueline,miller,perioral dermatitis,ocular rosacae
+aci,D2N146,ACI056,,male,,bobby,,abdominal pain,type 2 diabetes
+aci,D2N147,ACI101,,male,67.0,matthew,allen,Right shoulder injury,
+aci,D2N148,ACI099,,male,57.0,jeremy,adams,low back pain,
+aci,D2N149,ACI018,,male,57.0,Dennis,,shortness of breath with hemoptysis,diabetes;hypertension
+aci,D2N150,ACI029,,male,36.0,Scott,Miller,right knee injury,
+aci,D2N151,ACI094,,female,33.0,teresa,sullivan,right elbow pain,hypertension;diabetes type 2
+aci,D2N152,ACI057,,male,,noah,,back pain,diabetes
+aci,D2N153,ACI089,,male,68.0,gregory,price,LCL strain of the right knee,
+aci,D2N154,ACI105,,male,46.0,dennis,martin,right heel pain,
+aci,D2N155,ACI007,,female,77.0,Christina,Cooper,non-healing right foot ulcer,increased drainage;fatigue
+aci,D2N156,ACI022,,female,,Jullia,,follow-up status post inferior STEM,
+aci,D2N157,ACI034,,male,,Jose,,follow-up,
+aci,D2N158,ACI065,,female,31.0,barbara,,abdominal pain,Diabetes Type 2;Asthma
+aci,D2N159,ACI079,,female,33.0,alexis,Gutierrez,right hand pain,
+aci,D2N160,ACI023,,male,,Phillip,,right elbow pain ,hypertension;diabetes
+aci,D2N161,ACI055,,male,82.0,kevin,,Hospital follow-up after acute on chronic CHF exacerbation,hypertension;stage 3 chronic kidney disease
+aci,D2N162,ACI097,,male,42.0,gregory,hernandez,Right ankle pain and swelling,
+aci,D2N163,ACI058,,female,17.0,julie,cruz,hypercholesterolemia,
+aci,D2N164,ACI085,,female,53.0,elizabeth,,Chest pain,
+aci,D2N165,ACI106,,female,30.0,sophia,jackson,Bilateral knee pain,
+aci,D2N166,ACI109,,male,58.0,kyle,morales,low back pain,
+aci,D2N167,ACI095,,female,81.0,angela,powell,left knee pain,

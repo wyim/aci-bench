@@ -1,0 +1,150 @@
+
+
+ALL
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,BLEURT,Fact,average
+Transcript-based
+longest spearker turn,NA,NA,NA,NA,NA,NA,NA
+longest doctor turn,NA,NA,NA,NA,NA,NA,NA
+12 speaker turns,NA,NA,NA,NA,NA,NA,NA
+12 doctor turns,NA,NA,NA,NA,NA,NA,NA
+transcript,NA,NA,NA,NA,NA,NA,NA
+Retrieval-based
+train_UMLS,NA,NA,NA,NA,NA,NA,NA
+train_sent,NA,NA,NA,NA,NA,NA,NA
+BART-based
+BART,NA,NA,NA,NA,NA,NA,NA
+BART (Division),NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$,NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$ (Division),NA,NA,NA,NA,NA,NA,NA
+BioBART,NA,NA,NA,NA,NA,NA,NA
+BioBART (Division),NA,NA,NA,NA,NA,NA,NA
+LED-based
+LED,NA,NA,NA,NA,NA,NA,NA
+LED (Division),NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$,NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$ (Division),30.46,6.93,26.66,55.30,18.59,32.34,31.90
+OpenAI (wo FT)
+Text-Davinci-002,NA,NA,NA,NA,NA,NA,NA
+Text-Davinci-003,NA,NA,NA,NA,NA,NA,NA
+ChatGPT,NA,NA,NA,NA,NA,NA,NA
+GPT-4,NA,NA,NA,NA,NA,NA,NA
+
+
+division-subjective
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,BLEURT,Fact,average
+Transcript-based
+longest spearker turn,NA,NA,NA,NA,NA,NA,NA
+longest doctor turn,NA,NA,NA,NA,NA,NA,NA
+12 speaker turns,NA,NA,NA,NA,NA,NA,NA
+12 doctor turns,NA,NA,NA,NA,NA,NA,NA
+transcript,NA,NA,NA,NA,NA,NA,NA
+Retrieval-based
+train_UMLS,NA,NA,NA,NA,NA,NA,NA
+train_sent,NA,NA,NA,NA,NA,NA,NA
+BART-based
+BART,NA,NA,NA,NA,NA,NA,NA
+BART (Division),NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$,NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$ (Division),NA,NA,NA,NA,NA,NA,NA
+BioBART,NA,NA,NA,NA,NA,NA,NA
+BioBART (Division),NA,NA,NA,NA,NA,NA,NA
+LED-based
+LED,NA,NA,NA,NA,NA,NA,NA
+LED (Division),NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$,NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$ (Division),26.03,6.17,12.93,56.41,19.19,20.46,27.78
+OpenAI (wo FT)
+Text-Davinci-002,NA,NA,NA,NA,NA,NA,NA
+Text-Davinci-003,NA,NA,NA,NA,NA,NA,NA
+ChatGPT,NA,NA,NA,NA,NA,NA,NA
+GPT-4,NA,NA,NA,NA,NA,NA,NA
+
+
+division-objective_exam
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,BLEURT,Fact,average
+Transcript-based
+longest spearker turn,NA,NA,NA,NA,NA,NA,NA
+longest doctor turn,NA,NA,NA,NA,NA,NA,NA
+12 speaker turns,NA,NA,NA,NA,NA,NA,NA
+12 doctor turns,NA,NA,NA,NA,NA,NA,NA
+transcript,NA,NA,NA,NA,NA,NA,NA
+Retrieval-based
+train_UMLS,NA,NA,NA,NA,NA,NA,NA
+train_sent,NA,NA,NA,NA,NA,NA,NA
+BART-based
+BART,NA,NA,NA,NA,NA,NA,NA
+BART (Division),NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$,NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$ (Division),NA,NA,NA,NA,NA,NA,NA
+BioBART,NA,NA,NA,NA,NA,NA,NA
+BioBART (Division),NA,NA,NA,NA,NA,NA,NA
+LED-based
+LED,NA,NA,NA,NA,NA,NA,NA
+LED (Division),NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$,NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$ (Division),20.24,6.30,12.14,54.13,12.67,18.07,24.44
+OpenAI (wo FT)
+Text-Davinci-002,NA,NA,NA,NA,NA,NA,NA
+Text-Davinci-003,NA,NA,NA,NA,NA,NA,NA
+ChatGPT,NA,NA,NA,NA,NA,NA,NA
+GPT-4,NA,NA,NA,NA,NA,NA,NA
+
+
+division-objective_results
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,BLEURT,Fact,average
+Transcript-based
+longest spearker turn,NA,NA,NA,NA,NA,NA,NA
+longest doctor turn,NA,NA,NA,NA,NA,NA,NA
+12 speaker turns,NA,NA,NA,NA,NA,NA,NA
+12 doctor turns,NA,NA,NA,NA,NA,NA,NA
+transcript,NA,NA,NA,NA,NA,NA,NA
+Retrieval-based
+train_UMLS,NA,NA,NA,NA,NA,NA,NA
+train_sent,NA,NA,NA,NA,NA,NA,NA
+BART-based
+BART,NA,NA,NA,NA,NA,NA,NA
+BART (Division),NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$,NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$ (Division),NA,NA,NA,NA,NA,NA,NA
+BioBART,NA,NA,NA,NA,NA,NA,NA
+BioBART (Division),NA,NA,NA,NA,NA,NA,NA
+LED-based
+LED,NA,NA,NA,NA,NA,NA,NA
+LED (Division),NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$,NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$ (Division),10.48,3.64,8.32,42.43,7.13,8.86,16.48
+OpenAI (wo FT)
+Text-Davinci-002,NA,NA,NA,NA,NA,NA,NA
+Text-Davinci-003,NA,NA,NA,NA,NA,NA,NA
+ChatGPT,NA,NA,NA,NA,NA,NA,NA
+GPT-4,NA,NA,NA,NA,NA,NA,NA
+
+
+division-assessment_and_plan
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,BLEURT,Fact,average
+Transcript-based
+longest spearker turn,NA,NA,NA,NA,NA,NA,NA
+longest doctor turn,NA,NA,NA,NA,NA,NA,NA
+12 speaker turns,NA,NA,NA,NA,NA,NA,NA
+12 doctor turns,NA,NA,NA,NA,NA,NA,NA
+transcript,NA,NA,NA,NA,NA,NA,NA
+Retrieval-based
+train_UMLS,NA,NA,NA,NA,NA,NA,NA
+train_sent,NA,NA,NA,NA,NA,NA,NA
+BART-based
+BART,NA,NA,NA,NA,NA,NA,NA
+BART (Division),NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$,NA,NA,NA,NA,NA,NA,NA
+BART+FT_$_{\mathrm{SAMSum}}$ (Division),NA,NA,NA,NA,NA,NA,NA
+BioBART,NA,NA,NA,NA,NA,NA,NA
+BioBART (Division),NA,NA,NA,NA,NA,NA,NA
+LED-based
+LED,NA,NA,NA,NA,NA,NA,NA
+LED (Division),NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$,NA,NA,NA,NA,NA,NA,NA
+LED+FT$_{\mathrm{PubMed}}$ (Division),28.00,5.99,13.07,55.68,20.95,25.01,29.33
+OpenAI (wo FT)
+Text-Davinci-002,NA,NA,NA,NA,NA,NA,NA
+Text-Davinci-003,NA,NA,NA,NA,NA,NA,NA
+ChatGPT,NA,NA,NA,NA,NA,NA,NA
+GPT-4,NA,NA,NA,NA,NA,NA,NA

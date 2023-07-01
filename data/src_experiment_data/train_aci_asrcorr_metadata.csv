@@ -1,0 +1,36 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+aci,ACI001,,male,57.0,George,Lewis,left wrist and hand pain,
+aci,ACI004,,male,,Billy,,difficulty urinating,coronary artery disease;diabetes
+aci,ACI016,,female,29.0,Anna,Diaz,right-sided back pain,
+aci,ACI020,,male,80.0,Mason,Ward,kidney stones,
+aci,ACI025,,female,,Sophia,,right knee pain,type 2 diabetes
+aci,ACI027,scott good,male,43.0,gabriel,,back pain,diabetes;hypertension
+aci,ACI028,,,,,,ovarian cancer,
+aci,ACI031,,female,91.0,Elizabeth,Ross,Right knee injury,
+aci,ACI032,,male,,,,recurrent lung infections,
+aci,ACI035,Cooper,,,,,asthma,mood
+aci,ACI037,,female,34.0,Carolyn,,headache,diabetes mellitus
+aci,ACI038,,female,53.0,Virginia,,Right knee pain,diabetes
+aci,ACI040,,male,60.0,Bruce,Ward,Hepatitis C,
+aci,ACI044,,male,44.0,,,smoking cessation,
+aci,ACI048,,female,,linda,,left sided back pain,
+aci,ACI050,,male,69.0,alan,mitchell,left shoulder pain,
+aci,ACI053,,female,3.0,karen,nelson,right eye twitch,
+aci,ACI054,,male,45.0,russell,ramirez,Hospital follow-up after an anterior STEMI,history of CAD status post prior RCA stent;hypertension;diabetes mellitus
+aci,ACI059,,female,,teresa,,sore throat,hypertension;diabetes
+aci,ACI069,,female,,christina,,Congestive heart failure,hypertension;kidney disease
+aci,ACI070,,female,,virginia,,hypertension,
+aci,ACI071,,female,38.0,carolyn,jones,Right ankle pain,
+aci,ACI073,,male,53.0,dylan,bennett,Bilateral elbow pain,
+aci,ACI074,,female,,barbara,,itchy scalp,
+aci,ACI075,,female,46.0,gloria,,dyspnea,back pain
+aci,ACI076,,female,,julie,,knee pain,
+aci,ACI080,,female,27.0,jean,martinez,Left foot pain,
+aci,ACI082,sanchez,female,,abigail,,Right knee pain,
+aci,ACI090,,female,31.0,anna,diaz,Right ankle pain,
+aci,ACI092,,male,20.0,matthew,murphy,left ankle pain,
+aci,ACI093,,male,79.0,jeremy,roberts,Right foot ulcer,Diabetes;Coronary artery disease
+aci,ACI100,,male,58.0,joseph,walker,Right great toe pain,
+aci,ACI102,,male,45.0,elijah,reyes,right foot pain,Hx left ankle surgery
+aci,ACI104,,male,67.0,raymond,taylor,Difficulty swallowing,
+aci,ACI108,,female,76.0,brittany,edwards,right foot,

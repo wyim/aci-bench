@@ -1,0 +1,16 @@
+quickumls
+evaluate==0.4.0
+nltk==3.8.1
+rouge-score==0.1.2
+bert-score==0.3.12
+git+https://github.com/google-research/bleurt.git
+spacy==3.4.4
+scispacy==0.5.1
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_lg-0.5.1.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.5.0/en_core_web_md-3.5.0-py3-none-any.whl
+chardet
+cchardet
+accelerate==0.15.0
+datasets==2.9.0
+nlp

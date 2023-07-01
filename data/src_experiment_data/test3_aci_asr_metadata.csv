@@ -1,0 +1,23 @@
+dataset,id,doctor_name,patient_gender,patient_age,patient_firstname,patient_familyname,cc,2nd_complaints
+aci,ACI064,,male,35.0,sean,phillips,Left sided low back pain,
+aci,ACI083,,female,,emily,,changes in vision,
+aci,ACI111,,male,28.0,jacqueline,price,Right ankle injury,
+aci,ACI046,,male,,betty,,follow up,
+aci,ACI003,,female,35.0,33,Howard,right knee pain,
+aci,ACI013,,male,45.0,Zachary,Wood,left arm pain,chest pain
+aci,ACI039,,female,34.0,Karen,,abdominal pain,chronic migraines;hypertension
+aci,ACI049,,,,hannah,,cough,
+aci,ACI068,,female,50.0,betty,rogers,Left shoulder pain,
+aci,ACI012,,male,40.0,Matthew,Allen,right knee pain,hypertension;diabetes
+aci,ACI061,,male,67.0,jerry,thompson,elevated and fluctuating BP,hypertension;hyperlipidemia; osteoarthritis 
+aci,ACI036,,female,37.0,Donna,,headache,hypertension;diabetes 
+aci,ACI002,,male,,Michael,,back pain,strep throat 
+aci,ACI078,,male,74.0,billy,,cough,
+aci,ACI021,,female,,Theresa,,headache and high blood pressure,type 2 diabetes
+aci,ACI014,,male,60.0,Steven,Reed,back pain,
+aci,ACI091,,female,36.0,sharon,wright,Right Shoulder pain,
+aci,ACI063,,male,,matthew,,wet macular degeneration,high blood pressure
+aci,ACI096,,male,42.0,joe,reed,right knee injury,right shoulder pain and bruising
+aci,ACI019,,female,,Angela,,follow-up for lung cancer,pneumonitis
+aci,ACI087,,male,18.0,joshua,reyes,Right flank pain,
+aci,ACI042,,male,,Frank,,heart failure exacerbation,coronary artery disease;Stage 3 chronic kidney disease and possible gout flare
