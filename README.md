@@ -4,8 +4,8 @@
 
 This repository contains the data and source code for:
 
-**ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation". Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Neal Snider, Thomas Lin, Meliha Yetisgen. Submitted to Nature Scientific Data, 2023.**
-https://arxiv.org/abs/2306.02022
+**Aci-bench: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation". Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Neal Snider, Thomas Lin, Meliha Yetisgen. Submitted to Nature Scientific Data, 2023.**
+https://www.nature.com/articles/s41597-023-02487-3
 
 ```
 @article{aci-bench,
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2306.02022
                 Asma {Ben Abacha} and
                 Neal Snider and Thomas Lin and Meliha Yetisgen},
   title = {ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation},
-  journal = {Submitted to Nature Scientific Data},
+  journal = {Nature Scientific Data},
   year = {2023}
 }
 ```
