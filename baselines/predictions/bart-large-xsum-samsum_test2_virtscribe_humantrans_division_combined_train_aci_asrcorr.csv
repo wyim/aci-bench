@@ -1,0 +1,909 @@
+dataset,id,dialogue,note
+virtscribe,VS019,"[doctor] next patient is emily hernandez . date of birth , march 26 2001 . this is a 20 year old female being seen today for our yearly follow-up for asthma , allergic rhinitis and food allergy . due to insurance changes since our last office appointment in april 2020 , she was switched from symbicort to wixela . she also uses zyrtec in the spring , summer and fall for her seasonal allergy symptoms , which tend to work well . she also has known peanut allergy , she does tolerate almonds and cashews . please put in the asthma section at the very bottom that the act score is 21 . please put under interval history , written consent is obtained today to use dax for documentation .
+[doctor] hi emily , how are you ?
+[patient] i'm pretty good , how are you ?
+[doctor] i'm good , thank you . so gosh , we last talked a little bit over a year ago and it was just a telemedicine visit , but it seems like you've been doing pretty good . i know there was an insurance change . i think you had switched over to wixela , is that right ?
+[patient] yep , that's right , and it's what i'm currently using .
+[doctor] okay , and that's the 250/50 dose , correct ?
+[patient] yes , correct .
+[doctor] perfect . so how does that compare ?
+[patient] i mean , it's working well . i really have n't had any issues with it and i take it once in the morning and once at night .
+[doctor] and that's one puff twice a day ?
+[patient] mm-hmm .
+[doctor] okay . and have you been having to use your albuterol inhaler at all ?
+[patient] rarely , and if i do it's really just before a workout or something out that , if i know i'm really going to be pushing it .
+[doctor] so it sounds like it's around strenuous activity .
+[patient] yes .
+[doctor] okay . so you can do things like go on a walk or going to the grocery store no problem , and just use it for more exertional stuff ?
+[patient] yes . like , if i'm gon na go for a run or something like that i'll really just take it before as a preventative .
+[doctor] okay .
+[patient] and i've been trying to use my daily if i can a little less because i'm trying to go into the military soon .
+[doctor] no kidding , that's great .
+[patient] yeah , so i have to be able to operate basically at a certain fitness level without an inhaler .
+[doctor] really ?
+[patient] yeah , and if i can prove that i'm capable of these activities without an inhaler it makes it easier .
+[doctor] and so by inhaler do they mean both your daily and rescue inhalers ?
+[patient] mm-hmm . so it's like they'll have a fitness test and basically they'll tell me not to take my inhaler that day before the test , and then they'll see how the asthma affects me . and they're looking to see if it's serious enough to hold me back from joining or whatever . so i have been taking it less and less . and really some days i feel like i do n't need it .
+[doctor] and that is the wixela that you're not taking . so on average per week , how many days of the week do you use one puff in the morning and one puff at night ?
+[patient] probably about three or four .
+[doctor] okay , three to four days per week and the other days it's once a day ?
+[patient] yes , that's correct .
+[doctor] okay .
+[patient] and it's either in the morning or at night that i'm taking it .
+[doctor] okay , and do you think that's working okay ?
+[patient] i do .
+[doctor] great . and any urgent care or er visits at all for breathing over the past year ?
+[patient] nope .
+[doctor] okay , so i'm going to assume no one has put you on prednisone for breathing issues then .
+[patient] nope .
+[doctor] okay . and now , military wise , what's the time frame of when you'll be completing some of these exertional tests ? like , what are your next steps ?
+[patient] so , hopefully i'm going to be enlisted early spring of 2022 . so that gives me about six to seven months to get to a point where i'm able to exert my body where i do n't really need the inhaler . or at least show them that i have it under control .
+[doctor] now when you were in the other room you completed a breathing test , correct ?
+[patient] correct .
+[doctor] okay , great . so now let me ask you about the allergies , 'cause i know typically you'll use the zyrtec in the spring , summer and fall , correct ?
+[patient] yeah , i do n't really ... um , or i'm sorry , i use it more during the spring and fall . i do n't really have to use it too much in the summer .
+[doctor] do you use it more just as needed in the summer ?
+[patient] yeah , that's right .
+[doctor] okay . and have you been taking the zyrtec every day recently since you're right in the mix of spring ?
+[patient] not every day , but i do take it on days i know i'm going to be outside a lot . um , i do tend to work outside about three days a week so i'll definitely take it on those days .
+[doctor] and does it seem to work pretty well still ? are you happy with it ?
+[patient] yeah , it does , it works great .
+[doctor] wonderful , good to hear . and then i'm assuming you're staying away from the peanuts . uh , last year you had told me it worked with ... uh , you worked with enterprise rent-a-car and one of the cars had a lot of peanuts in it that you were cleaning out and that gave you hives , uh , when you had touched it , is that correct ?
+[patient] yep , that's correct .
+[doctor] okay . and has there been anything like that since that experience ?
+[patient] no , i do n't think so . i definitely became more cautious after that , so i usually wear , uh , wear long sleeves and change my gloves every time now . so i have n't had a reaction , but i imagine that i probably came into contact with cars that had peanuts in them , but they just d- did n't touch my skin .
+[doctor] super . and it sounds like you're really smart about it .
+[patient] yeah , and the airplanes , they have peanuts . they give everyone too , so .
+[doctor] okay . and you have an epipen that k- that you keep with you , correct ?
+[patient] yes .
+[doctor] okay . and i'm assuming you're going to need refills , um , i can call you in a new set for the year . typically of course , they expire within a year .
+[patient] yeah , okay .
+[doctor] and i remember , um , sometime previously you've had some testing for tree nuts , but you do have almonds and cashews , correct ? and- and you do okay with them , or do you avoid all tree nuts ?
+[patient] i do tend to avoid all of them but i recall eating some almonds at one point , uh , really soon after we discussed i might not be allergic to tree nuts anymore .
+[doctor] okay .
+[patient] and i remember having them and nothing happened , but i usually just tend to stay away from them , um , really if i can help it .
+[doctor] okay . so sometimes when people have a peanut allergy , the nuts in general just are n't very important to them , so it is very common to avoid both . um , so let's do this . i'll have helen come in and i would love to complete a breathing test on you . if your breathing numbers are looking great we can work on getting you , uh , something lower than wixela . if you look at all of our asthma regimens it is a stepwise process , and wixela is a combination of two medications in one . and , well maybe you do n't need both of'em . uh , maybe you just need one of'em . so we can work our way backwards .
+[patient] okay .
+[doctor] and so the breathing test will help give us some- some more guidance , we will look at the results in just a moment .
+[patient] all right , and so this past year i did get into the bad habit of vaping and smoking , but i have been trying to cut that out . so i should be good , and , um , now i only do just a little bit and i am trying to quit . so i am sure that might have an effect .
+[doctor] it can . um , so what we can do today is compare your results with prior results , probably before you started smoking or using the vape .
+[patient] okay .
+[doctor] yeah . and we'll see where you stand at that point .
+[patient] all right , that sounds good .
+[doctor] well let me go ahead and listen , so hop on up here for me .
+[patient] okay .
+[doctor] all right so your ears look good , a little bit of wax on both sides . can i see inside your mouth ? big ahh .
+[patient] ahh .
+[doctor] good . okay let me take a peek in your nose . all right , good . you can put your mask back on .
+[patient] okay .
+[doctor] and go ahead take a big breath in and out . good , your lungs sound terrific . i'll listen to your heart , breathe quietly . okay very good .
+[patient] awesome .
+[doctor] so your breathing test is about the same as it was a couple years ago , and actually looks a little bit better . you may not remember but when we last completed the test in 2019 , uh , do you recall if you were feeling lousy at the time ?
+[patient] i think it was the smoke . there were so many fires at that point and i remember coming in and looking out the window and all you saw was the orange and the smoke .
+[doctor] yes , you're absolutely right , that was a bad year . that was my first fall here and i was really alarmed . well that explains why at that time your numbers were a little bit lower and today they look better . here's what i think , so you'll have kaiser currently , correct ?
+[patient] correct .
+[doctor] okay . most insurances do limit what we can use .
+[patient] yeah i do know that .
+[doctor] okay so option one would be to continue using wixela like you're using it now . we would classify it as off-label and you can use it once a day instead of twice a day , which is fine . some people do that because they just need it once a day , so that's an option . option two would be to actually back up to an inhaler that just has one med .
+[patient] mm-hmm
+[doctor] so the one that kaiser covers is alvesco . the thing about alvesco , though , is that it would be two puffs in the morning and two puffs at night . so it's a bit more work . um , it's not breath activated but we could step down the lowest dose to see how you do . some of the newer guidelines for asthma that were published this year is recommending trying to treat people with inhalers like wixela or alvesco only when you're ill , or say during smoke season . so minimizing their use to those periods of time versus all year . unless you found out that you're getting
+[ inaudible 00:09:25 ] sick having issues every month , then that would indicate would pull back too much .
+[patient] okay .
+[doctor] that we had too much , yeah .
+[patient] okay .
+[doctor] um , so we could step back and possibly get you to the point where you just use those inhalers , uh , when you're ill or it's smoke season , but at the first step to do any of that would be to try to drop down to just alvesco .
+[patient] okay , that actually sounds really good .
+[doctor] okay great . so i will call that in for you , it will be the lower dose , 80 mcg , and you'll have to do two puffs twice a day .
+[patient] all right
+[doctor] okay and that'll be on the box when i call it in . you can put the wixela off to the side , but do n't throw it away just in case the alvesco does n't work well for you .
+[patient] okay , got it .
+[doctor] and then ideally we would repeat your breathing test in four months to see how you're doing , and then be able to document that you're doing well . sometimes , not always , the military will require documentation on breathing tests .
+[patient] okay .
+[doctor] is your pharmacy still the same or did you update it with helen ?
+[patient] yeah i believe she updated it . it should be kaiser permanente broadway .
+[doctor] okay perfect . i'll make sure it's the alvesco and then i'll renew your albuterol and epipen as well .
+[patient] awesome , thank you .
+[doctor] you're welcome . uh , then the zyrtec , do you pick it up over the counter or do get- do you get it as a prescription ?
+[patient] i just get it over the counter .
+[doctor] okay got it . and do you have a nebulizer that you would , uh , need refills on ?
+[patient] i do n't think i need any refills , i have n't used that in such a long time . i think the last time was when i had bronchitis , or there was few select times when i had to use it when i was kid .
+[doctor] okay good . well i think we have our game plan .
+[patient] okay awesome .
+[doctor] and do the alvesco two puffs twice a day and your albuterol if you need it . the zyrtec 10 milligrams as you need it and continue to stay away from peanuts and tree nuts and i'll refill your epipen .
+[patient] okay
+[doctor] all right so we've got it .
+[patient] great .
+[doctor] all right i'll have you take this to the front and i'm gon na say four months re-check for asthma and we'll repeat the spirometer- spirometry at that time .
+[patient] okay sounds good .
+[doctor] all right well thanks so much and you have a great day .
+[patient] you too .
+[doctor] and we'll do a follow-up in four months with act and spirometry , sooner if needed . follow-up 25 minutes .","
+CHIEF COMPLAINT
+
+Follow-up for asthma, allergic rhinitis, and seasonal allergy symptoms.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Hernandez is a 20-year-old female who presents today for her yearly follow-up. She was switched from symbicort to wixela inhaler due to insurance changes. She also uses zyrtec in the spring, summer and fall for seasonal allergies. She has a history of peanut allergy and tolerates almonds and cashews. The patient's asthma score is 21, her asthma inhaler dose is 250 mg daily, and she takes 1 puff once in the morning and 1 puff at night. She notes that she has been taking less and less of her albuterol inhaler as she is trying to get fit and join the military. She states that she rarely uses her inhaler prior to exertion, and if she does, it is usually just before a workout or if she knows she is going to be pushing it.
+
+
+PHYSICAL EXAM
+
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+Cardiovascular: No murmurs, gallops, or rubs.
+• Musculoskeletal: Slight tenderness to palpation of the right upper extremity.
+1. Examination of his or her right biceps shows no swelling or edema. The patient is being seen today for his/her yearly follow-up for asthma, allergic rhinitis, and food allergy. He/she tolerates almonds and cashews. She also tolerates peanut allergy.
+
+
+objective_results: #####EMPTY#####.
+Abdominal x-ray is obtained today and submitted to the office today.
+
+Echocardiogram demonstrates decreased ejection fraction of 45%.
+Wixela inhaler is used today for routine check-ups.
+Periodic review of the current Wixela wixela is reviewed and approved for use in the military.
+IMPRESSION STATS: Mitotic activity is within normal limits.
+Pulmonary function is normal.
+Exercise activity is controlled.
+X-ray of the chest x-rays are reviewed and reviewed.
+
+
+ASSESSMENT AND PLAN
+
+The patient is a 20-year-old female who presents today for her yearly follow-up for asthma, allergic rhinitis, and food allergy. She was switched from symbicort to wixela in April 2020 and continues to use zyrtec for seasonal allergy symptoms. Her asthma score is 21, her asthma inhaler use is limited to 1 puff in the morning and 1 puff at night, and she limits her albuterol use to 3 to 4 puff twice a day.
+
+Military fitness test.
+• Medical Reasoning: The patient is likely to be enlisted in the military and will need to take an inhaler at least 6 months prior to her scheduled check-up. She will also need to complete physicals prior to enlistment to ensure she is able to safely use her inhaler without a mask.
+"
+virtscribe,VS001,"[doctor] all right , new patient , jordan roberts . date of birth : 3/2/1972 . he's a 49 year old , uh hm , with hypertension and palpitations . please copy forward his thyroid profile from march 1st , 2021 .
+[doctor] hello mr. roberts , how are you doing today ?
+[patient] i'm fine , thank you .
+[doctor] good . good . so , i saw you were recently in the emergency room with high blood pressure and some palpitations .
+[patient] yeah . that was back in march i think , but my girlfriend and i , we talked about it , and on that day i had a few cups of coffee , and no breakfast . so , i think it was probably more of a panic attack than anything else .
+[doctor] yeah . have you , uh , have you felt it again since ?
+[patient] uh , no .
+[doctor] okay . uh , so tell me about the blood pressure then .
+[patient] well , i've had issues with my blood pressure since i was young .
+[doctor] do you have a family history of this ?
+[patient] yeah . a lot of my family does have high blood pressure .
+[doctor] i see .
+[patient] yeah , i thought it was getting better , and , uh , i have a new primary doctor , and she put me on a new medication about a month ago .
+[doctor] uh , can you tell me which medications you're taking ?
+[patient] my new med is , uh , a combo med , something 40-25 .
+[doctor] okay . um . yes , i see that in your chart . the benicar hct . it has hydrochlorothiazide in it .
+[patient] yeah , that's it . my water pill i call it .
+[doctor] okay . are you still taking the amlodipine , 10 milligrams daily ?
+[patient] uh , yes i am .
+[doctor] that's- that's a good start on a regimen . are you checking your blood pressure at home , and if yes , what numbers are you seeing ?
+[patient] um , every day .
+[doctor] awesome .
+[patient] yeah . every morning , i take it when i get up , and it's been running at about , uh , 146 to 155 lately .
+[doctor] so you're not down in the 120s yet ?
+[patient] no , not yet . well , we're trying to get there though .
+[doctor] okay . uh , how are you doing with your salt intake ?
+[patient] i'm trying to back off of it . i think i'm doing good with it , not eating too much .
+[doctor] good , uh , it plays a huge part in lowering your pressure and , uh , staying away from salt is important . um , i'll give you some information on the dash eating plan , which is the only eating plan that has been shown to lower blood pressure .
+[patient] sounds good .
+[doctor] are you doing any exercise ?
+[patient] i do try to walk on the treadmill when i can .
+[doctor] okay , great . um , all right . so , let's take a look .
+[patient] all right .
+[doctor] uh , you're gon na hear me talk throughout your exam , just so i can make sure i get everything documented .
+[patient] okay .
+[doctor] so , use my general physical exam template . let me take a listen to you and make sure everything sounds good .
+[patient] all right .
+[doctor] your heart and lungs sound good , so that's great .
+[patient] good to hear .
+[doctor] all right . go ahead and lie down . uh , and let me know if anywhere i press hurts .
+[patient] nope . nowhere .
+[doctor] all right . so , i'm gon na take a look at your ankles and feet . i'm just gon na look for some swelling .
+[patient] all right .
+[doctor] all right . it all looks good . go ahead and sit up . so , in terms of getting that pressure down , you're on three meds that are maxed out and your blood pressure is still not down . and , the question is what do we need to do to get your- to get it down . uh , your potassium one week ago was 4.0 . uh , has it been redone since in the last week ?
+[patient] uh , no .
+[doctor] okay . uh , four is good for your potassium level , some people have what is called resistant hypertension that is driven by something else in their body , uh , often it is a form , uh , hormonal response . if i were to take 10 people under the age of 50 who have high blood pressure who developed it at a young age , eight out of 10 would respond to reduced salt in their diet with a lower blood pressure . but , for the two out of 10 , there is something else driving it , uh , parathyroid levels or something called your adrenal glands overproduce , um , aldosterone , which we call hyperaldosterone .
+[patient] okay . so , is there something we can do about it ?
+[doctor] um , in these cases , there's medicine called , uh , spironolactone , that is very effective at dropping the ald- aldosterone level , and your blood pressure , and i think we should give that a try .
+[patient] all right . i mean , i'm willing to give it a try .
+[doctor] okay . so , let's discuss the piss- the possible risk of , uh , being on hydrochlorothiazide , which is the fluid med that you're now on . and , the spironolactone . one issue is that they can affect your electrolyte balance . um , they can also cause dehydration . so , when ... so , you got ta make sure that you hydrate . if you do not hydrate , and you get dehydrated , you will know it because you will get dizzy standing up . um , second thing is the spironolactone can raise your potassium too far , it's rare , but it can . uh , you're starting with your potassium at four , so that gives us some room .
+[patient] all right . i guess that makes me feel a little bit better .
+[doctor] yeah . and then the third thing is that spironolactone combined with hydrocholorozide- chlorothiazide can cause your sodium levels to go down . now , this does not mean- mean that you need to be eating more salt , okay ? but , it does mean that you will need to do blood tests in two weeks to make sure that it's okay .
+[patient] all right . no , that i can do . um , are there any other side effects i need to worry about ?
+[doctor] uh , dizziness possibly , as well as , uh , one in 100 guys might develop tenderness in their chest , swollen breasts , or enlarged breasts . this is a rare side effect , um , called gynecomastia , and if it happens , you just cut the medication and you let me know , but it is very uncommon .
+[patient] i'll definitely let you know if that happens .
+[doctor] okay . uh , we'll keep working at it until your blood pressure gets better . um , it can be tricky when your blood pressure starts to go up at a young age though , it is important to get it under control because it can lead to your heart getting bigger or enlarged . um , same thing that happens when you lift weights and your muscles get bigger , uh , and if your heart pumps against high blood pressure , it can eventually lead to heart failure .
+[patient] i understand .
+[doctor] yeah , so getting that under control is really important to help prevent kidney failure , strokes , and- and things like that- that you're at high risk for with high blood pressure .
+[patient] okay .
+[doctor] um , the american heart association has a website called heart.org , it has a lot of really good information about blood pressure to teach- to teach you about it and how to control your diet with exercise . um , if you do your treadmill routinely for 30 minutes or so most days , that could be seven to 10 points off your blood pressure .
+[patient] really ? i did n't realize that .
+[doctor] yeah , yeah . it's very important to be active , lower your salt , and increase your potassium . um , the goal is to keep your salt under 2000 milligrams a day , the actual recommendation is- is 1500 milligrams per day , but most people have a hard time with that . um , so just take a look at the website and the dash diet information . um , that will give you a lot of tips and information to help you start learning about this stuff .
+[patient] okay . i'll definitely check that out .
+[doctor] all right . so , we'll try the spironolactone and schedule a followup in two weeks to check your blood pressure and electrolytes . uh , if the new med does n't work , the next up is going to be the resistant hypertension clinic .
+[patient] all right .
+[doctor] all right . so , there they will look into secondary causes of your hypertension . they have access to newer procedure based technologies that can lower your blood pressure without medication , uh , for example , there is something called a renal , uh , denervation , uh , where they go inside the artery that feeds your kidney with almost like a little coil and heat that artery up . when they do that , they can block the nerve endings that get into your kidneys and lower your blood pressure .
+[patient] that's interesting .
+[doctor] yeah . so , that procedure has been shown to lower blood pressure by 10 points . um , there are of course some risks , so not everyone is a candidate . uh , but we'll cross that road , uh , when we need to , and let's just- let's just see how you do with the addition of the medication .
+[patient] sounds good to me .
+[doctor] all right . so , we will see you in two weeks then .
+[patient] sounds good . thanks doc .
+[doctor] yeah , you're welcome . let me know if you have any questions .
+[patient] will do .
+[doctor] all right . have a great day mr. roberts .
+[patient] you too .
+[doctor] mr. roberts presents with resistant hypertension . he's on three meds and maximum dose . i have added spironolactone to his regiment . we will need to monitor his potassium and sodium . he will have a metabolic panel and blood pressure check in two weeks . uh , next medication would be carvedilol , uh , which i try to avoid giving , it's potential for erectile dysfunction . i have talked to the patient about that , and the potential side effects of spironolactone , including the gynecomastia and electrolyte disturbances . if he is not controlled on spironolactone , the next step would be sending him to resistant hypertension clinic .","
+CHIEF COMPLAINT
+
+High blood pressure.
+
+HISTORY OF PRESENT ILLNESS
+
+Jordan Roberts is a 49-year-old male who presents to the clinic today for the evaluation of hypertension and palpitations. The patient was seen in the emergency room back in 03/2021, possibly due to a few cups of coffee and no breakfast. He believes the episode was more of a panic attack than anything else. He denies feeling it again since that time. He has had issues with his blood pressure since he was young. His family history is significant with a lot of hypertension in the family. His primary care physician started him on a new medication about a month ago, a 40-25 mg hydrochlorothiazide tablet daily, and he is still taking the amlodipine 10 mg daily. His blood pressure has been running at 146/155 mmHg, but he notes it is not yet in the 120s. He is trying to cut down on his salt intake and is following the Dash eating plan. He tries to walk on the treadmill when he can.
+
+
+PHYSICAL EXAMINATION
+
+Neck
+• General Examination: No carotid bruits.
+
+Respiratory
+• Cardiovascular
+• Auscultation of Lungs: Clear bilaterally. No murmurs, gallops, or rubs. No extra wheezes, rales, or rhonchi.
+• Musculoskeletal
+• Examination of Abdomen: Tender to palpation at the ankles. There is some swelling in the ankles at the base of the right ankle. The swelling is low. The patient is being seen regularly for checkups.
+
+
+objective_results: #####EMPTY#####.
+
+Hemoglobin A1c is elevated at elevated level.
+Abdominal x-ray of the chest is unremarkable.
+Peripheral x-rays of the arms and legs are normal.
+Echocardiogram demonstrates no evidence of any abnormalities.
+Patient is on a new combination med 40-25 HCT with hydrochlorothiazide. His blood pressure is within normal limits. He is taking an anti-hypertensive medication every day at 145/155 mm HCT. He has a family history of high blood pressure.
+
+
+ASSESSMENT AND PLAN
+
+Mr. James Roberts is a 49-year-old male who presents today with hypertension and palpitations. He was recently admitted to the emergency room with high blood pressure and some difficulty breathing due to chest pain.
+
+Hypertension.
+• Medical Reasoning: His blood pressure fluctuates between 146/155 mm Hg and 170/90 mm Hp. His last visit to the ER was in March of this year. He is currently on a new combination med 40-25 mg hydrochlorothiazide, 10 mg daily. I recommended that he discontinue the amlodipine as it does not appear to be providing any relief. He will follow up with me in 3 months to check on his blood pressure. I will also send him a referral to a dietitian to help with his sodium management.
+"
+virtscribe,VS013,"[doctor] brittany edwards , 07 , 1898 . she is a return visit for ibs with functional abdominal pain , nausea , vomiting . ms. edwards is a pleasant , 32-year-old female who was last seen in august of 2019 with flares of abdominal pain , who was diagnosed with irritable bowl that was treated with bentyl .
+[doctor] she had a previous prescription for reglan that she received from the emergency room that she used as needed for nausea . she was instructed to start a low dose fiber supplement , such as citrucel , daily , probiotics to help with gas and bloating , bentyl up to four times daily for intestinal cramping , and stop reglan and use zofran as needed . neuromodulators such as elavil and buspar were discussed but not started .
+[doctor] hello , how are you ?
+[patient] i'm okay .
+[doctor] good . how have you been feeling ?
+[patient] not so good .
+[doctor] yeah , so my nurse told me you have been going out to eat some on friday nights and saturday nights and that you have had some spicy foods or spicy shrimp .
+[patient] yeah , i have .
+[doctor] okay . well , your gut probably does not always appreciate that .
+[patient] no , it does n't like it at all .
+[doctor] yeah , so ibs is one of those things where you are very sensitive to certain things such as spicy foods or fatty foods and alcohol . and this can cause lower belly stuff like cramps , or you can get upper belly stuff such as nausea .
+[patient] i've been getting both .
+[doctor] okay . um , so how frequently have you been getting or having a bowel movement on normal days ?
+[patient] i'm starting to notice it's between two and three times a day .
+[doctor] okay . and are they soft stools or formed stools ?
+[patient] um , they're formed .
+[doctor] okay . and after you have gone out either drinking with your friends , do you tend to have more diarrhea ?
+[patient] yeah , i do .
+[doctor] okay . do you feel it's the food or the alcohol or both ?
+[patient] uh , well usually we go to friday's restaurant . i always eat pasta , the chicken alfredo .
+[doctor] okay . i can s- i can bet it's the alfredo sauce .
+[patient] but it normally does n't bother me .
+[doctor] okay . well , pasta can make you bloated , uh , but it does n't usually cause diarrhea . grilled chi- uh , grilled chicken is usually all right . alfredo , though , is higher in fat , and it does contain dairy . but you're saying it usually does n't bother you ?
+[patient] no .
+[doctor] okay . what type of alcohol drink do you drink when you are there ? is it a sweet drink ?
+[patient] most of the time it's either tequila or dark liquor . i prefer patron , but if i get brown liquor , i only get two . um , every now and again , i'll drink a martini .
+[doctor] sometimes it's the mixer they tend to put in the drinks , but it can be a variety of things . um , so when you're not eating out or drinking , what we do on a daily basis does help keep us regular , so when it does flare up , it c- it might not be as bad . um , have you had any luck using the fiber like citrucel regularly ?
+[patient] um , no . i guess i need to find a new drink .
+[doctor] okay . and how is it during the week ?
+[patient] like what i eat ?
+[doctor] yeah , and with the diarrhea and abdomal- um , abdominal pain .
+[patient] right now , i'm still having the cramping and sharp pains , so i've been avoiding heavy foods . i did have some fried chicken today , though .
+[doctor] and was everything all right after that ?
+[patient] yeah , for the most part .
+[doctor] okay . remember , it's also the portion sizes . so i mean , if you eat a little and you feel fine , then that's okay . you have to just really watch the portions .
+[patient] okay , good . i ca n't go out- go without some fried chicken at least once in a while .
+[doctor] sounds good . all right , well let's take a look at you today , and we'll do a brief physical exam . you will hear me call out some findings . i will answer any questions , and we will discuss once we have finished the exam .
+[patient] sounds good .
+[doctor] all right . so the patient is alert and cooperative , appears stated age . all right . i'm going to listen to your heart and lungs . and lungs are clear to auscultation bilaterally . heart regular rate and rhythm . all right , so if you could just lay back for me , and i'll examine your abdomen .
+[patient] okay .
+[doctor] all right . do you have any tenderness ?
+[patient] no , not really .
+[doctor] okay . so the abdomen is soft , non-tender . no masses or organomegaly . and let me take a listen . normal active bowel sounds . all right . you can go ahead and sit up now . thank you .
+[doctor] all right , so first i want you to try citrucel . it does come in a tablet . you should use it twice daily for regularity . then i would say , if you know you're going out and will possibly have diarrhea as a result , you can go ahead and use your bentyl 20 milligrams . you can do one tablet before you eat , and then repeat up to four times daily . and then on days when you feel good , you do n't have to use anything . um , and then on friday before you leave the house , you can take a bentyl and put one in your pocket for later , and then you can repeat the same thing on saturday if you want , and that will be totally fine .
+[patient] okay , that sounds good .
+[doctor] okay . and so your bentyl , that's the anti-spasm medication , and i would take the higher dose .
+[patient] can i get a refill of that ?
+[doctor] yes , absolutely . uh , so take one tablet about 30 to 45 minutes before leaving the house and then the second tablet at the restaurant . then with the nausea , um , i think we should try and see if you can recognize a pattern with what you are eating and drinking , um , um , about , like , what makes it worse .
+[patient] yeah , i noticed i've been doing better with drinking water instead of sodas .
+[doctor] okay , good . and then for your zofran , i would n't take that ahead of time . just plan on drinking plenty of water .
+[patient] okay .
+[doctor] okay , and you can take it , but before you do , we want to try to reduce the triggers . uh , so watch out for greasy or fatty foods and sugary drinks .
+[patient] okay , i can do that .
+[doctor] okay . and so , however , if it is not just these isolated inci- incidents and the symptoms are happening all the time , we could put you on a long term medication that would take ... that you would take every night . and so then you do n't have to use so much bentyl or the zofran . how do you feel about that ?
+[patient] i was actually going to ask you about something like that to help avoid flares altogether .
+[doctor] yeah , there is . and it actually works on the chemicals in your brain that are causing your gut to be overly sensitive . one is called elavil , but the only drawback is that it can make you a little sleepy . how does that sound ?
+[patient] that sounds like a much better plan .
+[doctor] okay , great . we can definitely do that . uh , just take it every night before bedtime .
+[patient] okay , that sounds good . thank you so much .
+[doctor] you're welcome . and so i have gone ahead and sent your prescriptions to your pharmacy . just give us a call if you have any questions or need us for anything else . and then let's plan on touching base through mychart email in about a month to just check in to see how you're doing with symptoms . okay ?
+[patient] okay , that sounds good . thank you .
+[doctor] you're welcome , and have a good rest of your day .
+[doctor] so review of symptoms is positive for diarrhea , nausea , and abdominal pain . assessment and plan . brittany edwards is a pleasant female with ibs and functional abdominal pain , aggravated by high stress , poor eating habits , and poor sleeping habits . i've encouraged dietary and lifestyle modifications , as well as starting a neuromodulator such as elavil 25 milligrams at bedtime for ibs .
+[doctor] she can use bentyl 20 milligrams as needed 30 to 45 minutes prior to eating out at a restaurant . she can also use zofran if needed . however , i have encouraged her to reduce greasy and fatty foods and alcohol consumption . i have asked her to follow up in one month by emailing over mychart regarding any side effects and issues , or issues with elavil or if adjustments are needed .","
+CHIEF COMPLAINT
+
+Bilateral abdominal pain, nausea, vomiting.
+
+HISTORY OF PRESENT IBS
+
+Ms. Edwards is a pleasant, 32-year-old female who was last seen in 07/1921. She is a return patient with functional abdominal pain. She was diagnosed with irritable bowl that was treated with bentyl. She had a previous prescription for reglan that she used as needed for nausea. The patient was instructed to start a low dose fiber supplement such as citrucel daily, probiotics to help with gas and bloating, and bentyl up to 4 times daily for intestinal cramping. She continues to use reglan and zofran as needed. She has been avoiding spicy foods such as spicy shrimp and fried chicken on Friday and Saturday nights. She also avoids heavy consumption of alcohol. She states that she is very sensitive to certain types of spicy foods and fatty foods and alcohol.
+
+
+PHYSICAL EXAMINATION
+
+Respiratory
+- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
+
+Genitourinary
+- Examination of Abdomen: Tenderness to palpation of the abdomen. Mild effusion. No rash or ecchymosis. Decreased stool burden. Slightly decreased stool volume.
+
+
+Bilateral Bowel Movement
+- Frequency of bowel movements: 2-3 times per day. Slight effusion in the lower quadrant. Slightly increased stool volume in the midline.
+
+
+objective_results: #####EMPTY#####.
+
+Echocardiogram revealed normal bony alignment and no evidence of any fracture or osteoarthritis.
+Abdominal x-ray is unremarkable. No fractures were noted.
+Impression: Immediate release of Creatinine Impaired Bowel Systolic Acid (IBS).
+
+Fiber supplement, citrucel, 2-3 times daily, probiotics, and bentyl up to 4 times daily for intestinal cramping, and stop reglan and use Zofran as needed.
+Rapid bowel movements are possible.
+
+
+ASSESSMENT AND PLAN
+
+Bilateral abdominal pain, nausea, vomiting, vomiting.
+
+PLAN
+
+Brittany Edwards is a pleasant, 32-year-old female who presents today for a return visit for ibs. She was last seen in January 2019 with flares of abdominal pain and irritable bowl that was treated with bentyl. She had a previous prescription for reglan that she received from the emergency room that she used as needed for nausea. The previous prescription was for a low dose fiber supplement, such as citrucel, daily, probiotics to help with gas and bloating, bentyl up to 4 times daily for intestinal cramping, and Zofran as needed. She is still having cramping and sharp pains. She has been avoiding spicy foods, spicy shrimp, fried chicken, and spicy sauces. Her recent abdominal exam was unremarkable, but she is sensitive to certain foods such as spicy shrimp and grilled chicken. I suspect this is due to her hypersensitivity to spicy foods and alcohol. I want to see her again in 2 weeks for a repeat abdominal ultrasound. I will order a chicken fried chicken breast for her to eat today. She will eat a portion at home, but I want her to make"
+virtscribe,VS025,"[doctor] okay , so our next patient is christopher watson . date of birth 04/12/1934 . mr . watson is- is an 86-year-old male who returns in follow-up for adult hydrocephalus . this is his first visit since undergoing sh- shunt surgery , excuse me , on august 1st , 2020 .
+[doctor] i have followed mr . watson since may of 2020 when he first presented with eight to ten years of progressive gait impairment , cognitive impairment , and decreased bladder control . we established a diagnosis of adult hydrocephalus with a spino catheter protocol in june 2020 , and he underwent shunt surgery on august 1st , 2020 . a medtronic strata programmable shunt in the ventricular peritoneal configuration was programmed at a level 2.0 was placed .
+[doctor] good morning , mr . watson , who is the nice lady you have with you today ?
+[patient] hi , doc . this is my daughter , theresa . she is the one who helps me keep things straight .
+[doctor] mr . watson , have you been sick or been hosp -- hospitalized since your shu- shunt surgery three months ago .
+[patient] uh , not that i recall .
+[patient_guest] no , he has n't . he has been doing much better .
+[doctor] good , i'm glad to hear that .
+[doctor] before surgery , you were having some progressive problems that affected your walking , thinking , and bladder control . are these symptoms better , worse , or unchanged ?
+[patient_guest] his walking has improved . he's now able to walk to the dining room just fine . but he could not do that before surgery . he still has times where i have to help him .
+[doctor] that's impressive , mr . watson .
+[patient] yeah , i guess .
+[patient_guest] now his bladder control did improve some after surgery , but now seems to have leveled out . so he is wearing diapers .
+[doctor] no issues with sores from wearing the diaper ? and any decreased or painful urination ?
+[patient_guest] no , not at all .
+[doctor] and how about cognition ?
+[patient] i think i'm better . i do n't feel lost when talking to someone anymore .
+[patient_guest] dad and i both think my sister , hannah , summarized it best . she said "" i feel like i can have a normal conversation with him again , ""
+[doctor] that's so wonderful ! now have you had any headaches or pain where the shunt is ?
+[patient] no . has n't bothered me one bit .
+[doctor] okay . and any pain in your belly at all ?
+[patient] ca n't say that i have .
+[doctor] okay , sounds like you have been improving . alrighty , mr . watson , i'm going to step out of the room while my resident comes in to do a few tests for me . is that all right ?
+[patient] sounds good .
+[doctor] okay , i'm going to go out and review the ct scan you had last month , and then we'll chat about it when i come in .
+[doctor] all righty , mr . watson , so you definitely have made some improvements since the shunt surgery . now on ct scan though i do believe i see a tiny bit of blood fluid collection in the right parietal region . now , i do n't believe that that's causing any symptoms , and i , it actually was n't documented by the radiologist when he read the ct scan .
+[patient] so what does that mean ?
+[doctor] just that i would like to leave the shunt set for another two to three months before we go in changing it . like i said , if you're not having any headaches or pain and you have improved so that's all good for me . so really there's , there's nothing to worry about .
+[patient] all right so i'll come back in three months ?
+[doctor] yep , that's right .
+[patient] i do have a question for you though .
+[doctor] yeah , of course .
+[patient] do you think i will be able to drive again ?
+[doctor] ah man , mr . watson , i knew you were gon na ask me that one . i think at this point it's unlikely that your movement speed will improve to the level that would be needed for you to pass the driver safety evaluation . now , i will say that i do occasionally have patients who surprise me by improving over a nine to 12 month range . and that , that definitely could be you . you could definitely pass it at that point . so if you improve and we can continue to talk about that then , ya know , i think it could be possible , um , and i'd be happy to recommend it .
+[doctor] now , you could definitely also enroll in a driver safety program without my recommendation . so you could kind of do that preemptively , and then we could continue to watch for your improvement as we go .
+[patient] okay . i kinda figured that anyway but i just thought i'd ask . i do n't like to burden anyone when i just need to run to the store but i also know that i need to be safe .
+[doctor] yeah , your safety is our number one priority and , ya know , i'm sure your daughters do n't mind as much , right , they want to keep you here and have you safe . but , i overall am very pleased with how much you have improved . and so , i'm sure when we talk again in three months , we'll continue to be on that upward trajectory or improvement .
+[patient] i sure hope so , doc .
+[patient_guest] we really appreciate all that you've done . do we make the appointment out front ?
+[doctor] yeah , that would be great . the girls up front will take care of you and get you settled for three months from now , and you both take care , all right ?
+[patient] thanks
+[patient_guest] thank you .
+[doctor] all righty , so ros is constitutional significant for impaired ability to carry out daily functions . negative for fever or unintentional weight loss . gu is significant for urinary incontinence and wearing a diaper . negative for genital sores , decreased or painful output . neurological significant for continued walking impairment and cognitive impairment . negative for headaches , recent falls , or hallucinations . psychiatric is negative for depression , excessive worrying , or mood swings .
+[doctor] let's go ahead and use the short pe . vitals , let's see , blood pressure is 124/80 , heart rate 64 , respirations 18 , weight 174 pounds , and pain zero out of 10 .
+[doctor] mr . watson is a pleasant and cooperative man who's able to converse easily through , um , though his daughter does add some details . the shunt sight was clean , dry , and intact with a confirmed setting of two . um he was tested um for recent and remote memory , attention span , and concentration in fund of knowledge . he scored a 26 out of 30 on the mmse when tested with spelling and 25 out of 30 when tested with calculations . of note , he was able to get two of the three memory words with cuing , and the third with multiple choice . this was a slight improvement over his initial score of 23 out of 30 with calculations and 24 out of 30 with spelling . and at the time he was unable um in the previous test , excuse me , he was unable to remember any memory words with cuing without and only one with multiple choice .
+[doctor] gait testing using the tinetti assessment tool . he was tested without an assistive device and received a gait score of six to eight out of 12 and a balance score of 12 out of 16 for a total score of 18 to 20 out of 28 . this is slightly improved from his initial score of 15 to 17 out of 28 .
+[doctor] cranial nerves , pupils are equal . eoms are intact . face symmetric . no disarchria . motor normal for bulk and strength . coordination slow from no- finger to nose . of note , the ct scan from the head of 10/15/2020 shows a frontal horn span at the level of foramen of monro of 4.6 centimeters with a third ventricular contour that is flat with a span of 10 millimeters . by my reading there is a tiny amount of blood in the right front region with a tiny subdermal collection . this was not noticed or noted by the radiologist who stated any extra axial fluid collections . there is also substantial small vessel ischemic change .
+[doctor] diagnosis adult hydrocephalus , gait impairment , urinary incontinence and urgency , and cognitive impairment .","
+CHIEF COMPLAINT
+
+Follow-up for adult hydrocephalus.
+
+HISTORY OF PRESENT ILLNESS
+
+Mr. Christopher Watson is an 86-year-old male who is returning for a follow-up. This is his first visit since undergoing shunt surgery on august 1st, 2020. He presents with 8 to 10 years of progressive gait impairment, cognitive impairment, and decreased bladder control. He was having progressive problems with his walking, thinking, and bladder control prior to the surgery. The patient has been doing much better since his surgery. He is able to walk to the dining room now, but he could not do that before the surgery and still has times where I have to help him. His bladder control did improve some after the surgery, but now seems to have leveled out. He has no issues with sores from wearing a diaper, decreased or painful urination, and he does not feel lost when talking to someone anymore. He denies headaches or pain where the shunt is located.
+
+
+PHYSICAL EXAM
+
+Neurological
+- Orientation: Alert and oriented x3. Speech is clear and fluent.
+
+Cardiovascular
+- Auscultation of Heart: Regular rate and rhythm. No murmurs, gallops, or rubs.
+
+
+Musculoskeletal
+- Examination: Tenderness to palpation of the right parietal region. Decreased sensation in that region. Negative pitting edema in the bilateral lower extremities.
+1+ test of his upper extremities: No rash or rash. No decreased or painful urination.
+2+ assessment of his cognition: Cognitively intact. He does not feel lost when talking to anyone.
+
+
+objective_results: #####EMPTY#####.
+
+Shunt surgery was performed on August 1st, 2020. A medtronic strata programmable shunt in the ventricular peritoneal configuration was placed and programmed at a level 2.0.
+CT scan of the brain was obtained and reviewed last month. There is a tiny bit of blood fluid collection in the right parietal region.
+Impression: Cognitive impairment and decreased bladder control.
+Abdominal spino catheter protocol was established in June 2020.
+Brain activity is unchanged.
+Echocardiogram revealed no evidence of any abnormalities.
+
+
+ASSESSMENT
+
+Mr. Christopher Watson is an 86-year-old male who returns for follow-up of adult hydrocephalus. He underwent shunt surgery on august 1st 2020. A medtronic strata programmable shunt in the ventricular peritoneal configuration was placed and is rated at level 9.0. The patient is doing well since the surgery, but still has times where I have to help him.
+
+INSTRUCTIONS
+• Follow-up in 2 to 3 months.
+• Cognitive impairment evaluation in 1 to 2 years. We will review the ct scan from last month.
+"
+virtscribe,VS009,"[doctor] amanda taylor , birth date october 31st 1949 . patient is a 72 year old woman who comes for followup for hypertension . her history includes significant alcohol use disorder and mi- mild hypercholesterolemia . at last visit on april 16th her blood pressure was 130 over 90 . after presenting at 150 over 100 she was prescribed hydrochlorothiazide 12.5 milligrams by mouth once daily , and lisinopril 20 milligrams by mouth once daily . cmp and cbc were essentially unremarkable .
+[doctor] hi miss taylor , how are you today ?
+[patient] hi , i'm- i'm good , thank you .
+[doctor] thanks for coming in today .
+[patient] yeah , no problem .
+[doctor] so how have things been going for you ?
+[patient] uh , they've been all right . i'm struggling with not drinking . i wanted to discuss that , uh , shot that you had mentioned last time , but we did n't get to discuss it too much .
+[doctor] okay , well i'll be happy to provide you with more information . so tell me when did you last have a drink ?
+[patient] on monday .
+[doctor] okay , so you've gone a couple days without it ?
+[patient] yeah , yeah i have .
+[doctor] yeah , and had you been drinking for a while ?
+[patient] yep .
+[doctor] how much had- how much had you been drinking ?
+[patient] um , four or five times a week hard alcohol , so , you know .
+[doctor] okay . well it will certainly help your blood pressure if you're able to stop drinking .
+[patient] yeah , yeah i- i- i agree with you .
+[doctor] okay . are you taking your blood pressure medications ?
+[patient] yeah , but i'm only taking half of the lisinopril .
+[doctor] okay .
+[patient] i- b- well , the first time i took it i felt lethargic and tired , so i only took a half dose the next time . i felt much better and i did n't have the headaches or the swooshing that started in my left ear . so i feel like it's definitely helping but i do n't know ... i know it's not gon na be okay until i stop drinking .
+[doctor] and are you also taking the full dose of the hydrochlorothiazide ? do you have any , um , chest tightness or pressure or any shortness of breath ?
+[patient] yeah i'm taking the full dose of that medicine too , and no none of those symptoms .
+[doctor] okay . anything else i should be aware of or that we should be checking ?
+[patient] mm , no .
+[doctor] okay , good . are you doing the blood pressure checks at home ?
+[patient] yes . yes i am .
+[doctor] okay good . what kind of numbers are you seeing ?
+[patient] well , in the morning i'm seeing lower numbers than in the evening , um , where i run anywhere from like 130 to 145 or 150 over 95 to 100 on the bottom .
+[doctor] okay .
+[patient] but in the evenings if i sit there for a while and then take it , it goes down . kind of like when i come here it's always high but then it goes down . in the mornings it's generally more normal where it's supposed to be .
+[doctor] uh- .
+[patient] mm , also i'm taking my medicine in the morning when i get up instead of in the evening .
+[doctor] yeah , so it sounds like we are not too far out of where we wan na be .
+[patient] right , mm-hmm .
+[doctor] okay . well let me get a listen to your heart , go ahead and hop up here .
+[patient] okay .
+[doctor] use my general exam template . all right , go ahead and take some deep breaths . okay , good . any fever , cough , shortness of breath or sore throat ?
+[patient] no .
+[doctor] any recent travel or contact or exposure to the coronavirus ?
+[patient] nope .
+[doctor] have you received your coronavirus vaccine ?
+[patient] yes , on february 9th .
+[doctor] okay , great . all right well i'm just going to look at your ankles and feet , i'm looking for any signs of swelling .
+[patient] okay .
+[doctor] all right , well everything looks good . you can go ahead and sit up miss taylor . all right , so the good news is everything is looking okay . i think we both agree if you were able to stop drinking your blood pressure would cease to be an issue for you .
+[patient] yeah i agree with that .
+[doctor] so let us discuss the potential medicine to help you with that . what it does is it blocks some of the brain receptors that alcohol stimulates and it tricks the brain into thinking it does not need alcohol , thereby cutting down the urges .
+[patient] the urge to drink or the constant thinking about it ?
+[doctor] it actually will help with both .
+[patient] okay . so is it like a one-time thing ?
+[doctor] generally the shot is given about once a month , it can also be given as a daily pill , but the shot does tend to work a bit better .
+[patient] yeah i've taken things like this in the past and if it is a pill , i know i wo n't take it . with a shot , it's not like you can un-take it .
+[doctor] yeah that's true . and the shot has been shown to work , it is more just a matter of getting you in to get your shot a month later with the nurse .
+[patient] yeah , sure , sure .
+[doctor] okay , so it's called naltrexone . i think the other name might be vivitrol . like i've said , the research on it is pretty good .
+[patient] i think i may have taken the naltrexone before .
+[doctor] okay , yeah , maybe you have .
+[patient] yeah , if it was available in a pill form then i'm almost certain i've tried it b- before .
+[doctor] okay . if this sounds good though , we can go ahead get you started with the shot . i am looking and it looks like we have you coming back in on may 17th for your first shot , does that sound good ?
+[patient] yeah , yeah , that sounds great . are there any possible side effects ?
+[doctor] yeah , some people will experience some nausea , headache , dizziness , anxi- anxiety , tiredness and trouble sleeping , but generally the side effects are mild and should go away within a few days .
+[patient] okay .
+[doctor] then we can schedule you for a follow-up in june to see how you are doing .
+[patient] all right that sounds good .
+[doctor] all right great . well otherwise stay with your current medicines , keep checking your blood pressure , and let's see if we can stop the alcohol for good . let us know if you have any questions or any issues come up after you receive the first dose .
+[patient] all right , sounds good , thank you .
+[doctor] you are welcome , have a good rest of your day .
+[patient] you too .
+[doctor] miss taylor is drinking alcohol four to five days per week to excess . no tobacco , no substance abuse , skin is moist , good trigger . on exam she is alert , pleasant , in no acute distress . she is not diabetic , there is no tremor , no cva tenderness , chest clear to percussion and auscultation , unlabored breathing , cardiac rhythm regular , no murmur , no gallop , jvp flat , with a head at 90 degrees . she does not appear anxious , agitated or depressed . my impression , alcohol use disorder . she would like to start naltrexone which we have previously discussed . she will take the injectable form and start on may 17th . we reviewed side effects and risks . the potential benefit of alcohol cessation would be highly beneficial to her for many reasons . hypertension , she is taking lisinopril 10 milligrams daily and hydrochlorothiazide 12.5 milligrams daily . quite possibly her blood pressure will improve completely with cessation of alcohol . her target bp is 130 to 140 over 70 to 80 . i will see her back week of june 14th , which is likely around the time of her second naltrexone injection . i recommend upgrading influenza vaccination and shingrix . number two , she did defer this .
+","
+CHIEF COMPLAINT
+
+Follow-up for hypertension.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Amanda Taylor is a 72-year-old female who presents for follow-up of hypertension. She has a history of significant alcohol use disorder, mild hypercholesterolemia, and mild hypertension. The patient was last seen on 01/16/17 at her last visit, her blood pressure was 130/90 mmHg. She was prescribed hydrochlorothiazide 12.5 mg by mouth once daily, and lisinopril 20mg by mouth, half daily. Her last drink was on Monday, 09/18. She is struggling with not drinking. She states she has been drinking 4 to 5 times a week hard alcohol. She denies chest tightness or pressure, chest pain, shortness of breath, headaches, and left ear swooshing. She notes that she has gone a couple of days without drinking.
+
+
+She is doing blood pressure checks at home and notes that in the morning she is seeing lower numbers than in the evening. She also notes that her evenings are always high, whereas in the mornings her mornings are more normal. She continues to take half of the lisin
+PHYSICAL EXAM
+
+
+• Cardiovascular: Grade 2/6 systolic ejection murmur, stable.
+• Musculoskeletal: No carotid bruits, edema, or rhonchi.
+
+VITALS REVIEWED
+
+Integumentary
+• Auscultation of Heart: Stable. No murmurs, gallops, or rubs.
+Neurological
+• Examination of Abdomen: Clear bilaterally. No extra heart sounds. No enlarged lymph nodes.
+Respiratory
+• General Examination: Lungs are clear to auscultated bilaterally, no wheezes, rales, or rales.
+
+
+objective_results: #####EMPTY#####.
+Abdominal x-ray is unremarkable.
+Impression: Elevated hemoglobin A1c is within normal limits.
+
+Hemoglobin Echocardiogram is normal.
+Lipid panel is unchanged.
+Peripheral x-rays are normal. No abnormalities were noted.
+Non-fasting strep test is present.
+Abscesses are present. No fractures or osteoarthritis.
+White blood cell count is present in the lower extremities.
+Unwanted warts.
+Patient is taking the full dose of hydrochlorothiazide 12.5 mg once daily.
+
+
+ASSESSMENT AND PLAN
+
+• Hypertension.
+
+PLAN
+
+Amanda Taylor is a 72-year-old woman who presents for follow-up for hypertension. Her blood pressure at last visit was 130 over 90 mm Hg. Her last visit on April 16th was 140 over 90. She was prescribed hydrochlorothiazide 12.5 mg by mouth once daily, lisinopril 20 mg once daily. Her recent blood pressure readings have improved slightly, but her recent hemoglobin A1c was still elevated.
+• Alcohol dependence.
+The patient has been consistent with her alcohol consumption over the past few months, but has recently stopped for a couple of days. She admits to seeing some improvement in her blood pressure in the morning, but does not have any new blood pressure-related symptoms.
+- Medical Reasoning: The patient's recent blood glucose levels have improved significantly since her last visit. She is doing well with home blood pressure checks at home, but needs to continue to monitor her levels at home as well as at the clinic. We discussed the importance of alcohol consumption and recommended that she limit her alcohol intake to 0.5 pints of alcohol per day to avoid headaches and dizziness.
+"
+virtscribe,VS008,"[doctor] next patient is grace ross . date of birth 8-23-97 . ms. ross is a new patient . she's here today for a full spectrum std testing . the patient states that she's having symptoms of discomfort , a change in discharge , and odor in her vaginal region . she says that the right side of her vagina is starting to become painful . she denies any fevers or chills . she reports , that she recently learned , her partner has been in sexual encounters with other people , and she wants to be evaluated for all stds .
+[doctor] hello , ms. ross . i'm dr. diaz . it's good to meet you .
+[patient] hi . yes . nice to meet you , too .
+[doctor] so , how are you doing today ? i hear that you're here for std testing . is that correct ?
+[patient] yeah . actually , i found out earlier this week , that my boyfriend has been cheating on me , for some time . i'm really worried , that i could have caught something , you know ?
+[doctor] mm-hmm .
+[patient] i wanted to make sure i do n't have anything .
+[doctor] yeah . i'm sorry to hear that . of course , we can do that today . um . well , let's see . how do you feel ? do you have any symptoms ?
+[patient] well , um , i started noticing some weird discharge last week .
+[doctor] mm-hmm .
+[patient] uh , it smells different . it's not the same color , or consistency , as usually , it is .
+[doctor] right .
+[patient] um . that part did n't even phase me , until i noticed that the right side of my vagina was hurting . just sore , you know , but that has n't gone away .
+[doctor] yep . nah , that does sound like a cause for concern . how long have you been with him ?
+[patient] hmm , we've been dating for three years .
+[doctor] mm-hmm .
+[patient] as far as , i can figure , he started cheating on me , i think , about three months ago .
+[doctor] uh- . um , okay . do you ... have you ever had an irregular pap smear ?
+[patient] well , yeah , i did , but it was back whenever i was 20 or so . it has n't ... and i have n't had one since .
+[doctor] okay . and when was your last pap smear ?
+[patient] uh , about six months ago . it came back normal , though .
+[doctor] okay . good , okay . well , let's see ... let's take a look at you , and then , we'll get some samples for std testing . okay ?
+[patient] all right .
+[doctor] you'll hear me talk through your exam , so that i can get it all documented . uh- ?
+[doctor] use my general physical exam template . pelvic exam demonstrates no external lesions . normal labia majora and labia minora . normal physiological discharge , with normal color and smell .
+[doctor] ms. ross , i'm going to touch you , now . you'll feel my fingers , and the speculum in your vagina . you'll feel some pressure , now .
+[doctor] cervix is normal . vaginal wall is normal . no cervical motion tenderness and no adnexal tenderness or masses noted . swabs were done for std testing .
+[doctor] okay , ms. ross . everything looks good from a visual standpoint . i'm going to send off std testing for , uh , gonorrhea , chlamydia , trichomoniasis , and i'll have you give some blood for syphilis , hiv and hepatitis c. some of these tests will take longer than others . we will call you , if we see anything , but if you have n't heard anything , you can call us in three days for results .
+[patient] okay . sounds good . thank you , so much .
+[doctor] of course , my pleasure . and , if everything is normal , i'll see you again , at your next annual checkup .
+[doctor] assessment : is screen for std .
+[doctor] plan : discussed with patient , and please add that she is high risk due to an abnormal pap smear in the past , and the recent discovery of her sexual partner having multiple partners , for some period of time .
+[doctor] end of recording .","
+CHIEF COMPLAINT
+
+Full spectrum sexually transmitted disease testing.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Ross is a new patient. She presents today for a full spectrum sexual transmission disease evaluation. She reports that she recently learned that her partner has been in sexual encounters with other people for some time and is worried that she could have caught something. She has been dating her partner for 3 years and found out that he started cheating on her about 3 months ago. Her last pap smear was done about 6 months ago and it came back normal. She denies fever, chills, or fevers.
+
+
+REVIEW OF SYSTEMS
+
+Constitutional: Negative for fevers or chills.
+Gastrointestinal: Positive for right-sided vaginal pain.
+
+
+PHYSICAL EXAM
+
+Genitourinary
+Pelvic: No external lesions. Normal labia majora and labia minora.
+Vitrolyte: Normal physiological discharge with normal color and smell.
+Cervical: cervix is normal. No cervical motion tenderness or masses noted. No adnexal tenderness noted. Swabs were done for std testing.
+Integumentary
+Gastrointestinal
+Examination of the right side of the vagina shows pain to palpation. The right testicle shows normal physiological discharge. The patient is being seen today for a full spectrum of STDs testing. She will also have blood tested for syphilis, hiv and hepatitis C.
+objective_results: #####EMPTY#####.
+
+X-ray of the vaginal region is normal. No external lesions. Normal labia majora and labia minora. Normal physiological discharge. No adnexal tenderness or masses noted. Swabs were done for std testing.
+Impression: Good.
+Pap smear was obtained about 6 months ago and is unremarkable.
+Predominant: White blood cell count is within normal limits.
+Hemoglobin A1c is elevated.
+Rapid strep test is not abnormal.
+Peripheral candida are normal.
+
+
+PLAN
+
+At this point, I discussed the diagnosis and treatment options with the patient. I recommend full spectrum sexually transmitted disease testing. She will follow up with me in 3 days for results. I will send off samples for HPV testing, gonorrhea, chlamydia, trichomoniasis, and blood for syphilis, hiv, hepatitis C. We will also add an annual pap smear to her routine screening plan to rule out an irregular smear. She can call me if she sees any changes in her cervix, vaginal wall, or abnormal discharge. All questions were answered.
+
+MS. ross was born 8-23-97. She is a new patient. She reports symptoms of vaginal tightness, vaginal discharge, and odor. Her partner has been cheating on her for some time. She found out about this about 3 months ago.
+"
+virtscribe,VS036,"[doctor] tyler nelson , date of birth : 3 , 6 , 1949 , mrn , 385729 . he is here today for ongoing management of rheumatoid arthritis . last time he was here , he received a steroid injection in his right knee . hello mr. nelson , how are you ?
+[patient] um , about the same as last time . my knee is still swollen .
+[doctor] that was your right knee , correct ? i take it the injection did n't help ?
+[patient] it did , maybe for a couple of weeks .
+[doctor] that's it ? and is it still painful ?
+[patient] yeah , it's pretty painful , and now the whole leg is getting swollen .
+[doctor] okay , what would you say your pain level is ?
+[patient] i mean , right now it's about a 3 or so , but , typically on a normal day it's around 6 .
+[doctor] okay , and its been swollen like that for how long now ?
+[patient] since i was last here a couple weeks after that . so about , maybe two months now .
+[doctor] okay , but before it was just the knee ?
+[patient] yeah , the whole thing was n't swollen like this , but i tried to wear compression socks a lot of the time , but it has n't been helping .
+[doctor] okay , okay , so that has n't been working for you ?
+[patient] i mean , it helps to some degree , but it's still swollen , especially around the knee .
+[doctor] hmm . has it been keeping you from doing things during the day ?
+[patient] well , i slowed down a little bit , and i found a few things too fast . but when it really hurts , is when i've been sitting for a while , and then i have to try and get up . i'm so stiff getting up i have to use a cane to get my bearings . i mean , after a little bit , it loosens up , but that first getting up is real difficult .
+[doctor] yeah , i can see , that makes sense . have you been taking your medication regularly ? your on xeljanz right ?
+[patient] yeah , the xr , i think its , uhm , 11 milligrams a day ? yeah , but i'm taking it everyday , and i'm also taking celebrex which i started maybe 2 months ago .
+[doctor] yes , the 200mgs daily . how's that working for you ?
+[patient] pretty good , up until it started swelling again .
+[doctor] okay , well come sit over here , and if you could take of your socks and shoes , and we'll take a look at your knee . and just to let you know , i have a service now that writes my note about the visit , so you'll hear me call things out and describe what i see fully .
+[patient] okay , gotcha .
+[doctor] right , so let's check your leg . can you straighten it , and does it hurt ?
+[patient] yeah , when i try to straighten it all the way it does .
+[doctor] okay , range of motion slightly diminished . i'm going to press here , okay ? and how about here , hmm , i see some pitting around the knee and ankle . normal capillary refill in the toes . does any of this area hurt ?
+[patient] um , just kinda sore , like an old bruise ?
+[doctor] so , i can feel that the knee is hot , and that means there's something going on , like some inflammation . so we can give you another steroid injection for that . i also want to get an x-ray of that knee , so we can see where all the swelling is coming from .
+[patient] yeah . let's do it . sounds go to me .
+[doctor] okay , and did we set up physical therapy for you last time you were here ?
+[patient] yeah , that was some years ago , but that was the other knee .
+[doctor] okay . so i think we'll set that up for you now . we'll also do an x-ray on that knee . i can send you for a physical therapy , and if nothing is helping , then we really might need to get a surgery consult to see what we can do with that knee .
+[patient] okay , sounds like a plan .
+[doctor] all right , so for today we'll go ahead and we'll give you the steroid shot . i'll try to see if i can get a little bit of fluid out before i do give you the injection . there might be no fluid , but i'll see if i can get anything out regardless .
+[patient] okay . and that's a procedure you're going to do right now ?
+[doctor] yep . once we're done talking here , and as far as the edema in your legs , uh , we'll take an x-ray to look for the cause , but there is a lot you can do as well . the compression socks are a good start . um , and also , do you eat a lot of salt ?
+[patient] i mean , um , i mean i love my salty snacks .
+[doctor] okay . well , salt does have a tendency to make your body hold on to water , reducing your salt intake could help with some of the swelling . you can also prop your feet up any time you get a chance , especially at night . and have you talked to your private care doctor about this at all ?
+[patient] no , i figured i would just come here first .
+[doctor] okay . so i think , try some of those things out first , and if it does n't help , definitely make an appointment with them , also , as you know , xeljanz is a high-risk medication , so we need to check your cmp levels every couple of months . so this time your levels are good , but do make sure to make an appointment for the blood work for next time .
+[patient] all right . i can do that . thank you so much doc .
+[doctor] yes , of course . well let me go ahead and get supplies and we'll get to work on your knee .
+[doctor] fluid aspiration and steroid injection procedure . the risks , benefits , and alternatives were explained . the risks of steroid injection were explained , including , but not limited to : hypopigmentation , soft tissue atrophy , tendon ruptures , and transient hypoglycemia among others . verbal consent was attained . the right knee was , uh , um , accessed through the lateral approach with 3 milliliters of initially clear fluid , then bloo- blood tinged fluid . then the right knee was prepped in a standard-fashion . the right knee was injected with 80 milligrams of triamcinolone , and one milliliter of lidocaine . the procedure was tolerated well , with no complications . post-procedure instructions were given . patient will follow up with his pcp . thank you .","
+CHIEF COMPLAINT
+
+Right knee swollen.
+
+HISTORY OF PRESENT ILLNESS
+
+Mr. Nelson is a 71-year-old male who presents today for ongoing management of rheumatoid arthritis. The last time he was here, he received a steroid injection in his right knee. The injection did not help and he was in pain for a couple of weeks. He continues to have pain level around 3-6 on a normal day. He tried wearing compression socks, but they do not provide much relief. He has been taking his Xeljanz 11 mg daily, which he started 2 months ago, and he is also taking celebrex 200 mg daily which has been doing pretty good until it started swelling again. He slows down a little bit and stops doing things too fast, but his range of motion is slightly diminished when he has been sitting for a while and then he has to try and get up. He uses a cane to get up, but it loosens up after a short period of therapy. He is going to get an x-ray of his knee so we can see where all the swelling is coming from.
+
+
+PHYSICAL EXAM
+Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+Cardiovascular: No murmurs, gallops, or rubs.
+Musculoskeletal: Pitting around the knee and ankle. Normal capillary refill in the toes.
+VITALS REVIEWED
+
+Exam of the right knee: No pain to palpation. Range of motion is slightly diminished. Strength is reduced after sitting. He has to use a cane to get his bearings.
+Examination of the left knee: Mild effusion.
+
+
+objective_results: #####EMPTY#####.
+
+X-rays of the right knee is obtained and reviewed today. These reveal some pitting around the knee and ankle and normal capillary refill in the toes.
+Abdominal x-ray images are obtained and review in office today. There is no evidence of any fractures or osteoarthritis present.
+IMPRESSION
+
+Right knee is still slightly elevated.
+Impression: Mild arthritis.
+Echocardiogram demonstrates the presence of some arthritis-related tissue changes.
+Patient is taking Xeljanz with 200 mg daily.
+
+
+ASSESSMENT
+
+• Right knee inflammation.
+
+PLAN
+
+Mr. Nelson is here today for ongoing management of rheumatoid arthritis. The last time he was here, he received a steroid injection in his right knee. The injection did not help. The patient’s right knee is still inflamed and swollen. He has been wearing compression socks most of the time, but they are not doing much to reduce the swelling. He is also taking Celebrex 200 mg daily. I recommended that we obtain an x-ray of the knee to evaluate for any signs of arthritis. I advised him to stop using the cane and use a cane when he gets up. I also recommended that he follow up with me in 2 weeks to check on his progress.
+"
+virtscribe-7,VS005,"[doctor] uh , mrn49282721 . patient's name is jacqueline miller . use last visit exam where appropriate .
+[doctor] hi , how are you doing , jacqueline ?
+[patient] i'm pretty . good . how are you ?
+[doctor] good as well . so it sounds like we're , um , under good control right now .
+[patient] yes . it's doing much better .
+[doctor] good , good . do you have any rash leftover ?
+[patient] yeah , i have a- a small bit leftover . i started using , uh , doxycycline only one a day because i think the pharmacist said if it's getting better , to just limit it to once a day .
+[doctor] okay , that sounds good .
+[patient] but i was taking it twice a day and i did notice a lotta improvement .
+[doctor] okay .
+[patient] and then when i started doing it only once a day , it seems the same and it's not continuing to get better . so it's kinda plateaued a little bit .
+[doctor] i see . um , are you breastfeeding at this time ?
+[patient] no , i'm not right now .
+[doctor] okay , good . so you- you should not be breastfeeding while you're on that medication .
+[patient] yeah , actually i stopped breastfeeding and then asked for the doxycycline at that time .
+[doctor] okay . even with the doxycycline , you can keep using the elidel .
+[patient] okay . and i did n't take the elidel because when i read about it i got worried . so i wanted to just try the doxycycline and see .
+[doctor] okay . so we can talk about the elidel . a lot of the things you read about is not actually relevant to the cream or ointment form , but it's about the oral form that's used in really high doses , longterm , after people have a heart transplant or a kidney transplant or something like that .
+[patient] okay . i did n't realize that .
+[doctor] yeah , and when you suppress the immune system that hard for that long , it can predispose you for developing cancers like hematologic type cancers . it does n't apply to as-needed use of the medicine , a cream or an ointment , okay ?
+[patient] okay . then i can resume taking - taking the doxycycline twice a day again ?
+[doctor] so let me clarify . what exactly are you using ? and then we'll look at you and figure out , okay ? so you're using the sulfacetamide wash ? uh , how frequently are you using that one ?
+[patient] twice a day .
+[doctor] okay , and that's not drying you out too much ?
+[patient] no , that's fine .
+[doctor] okay . and you're using the metro cream ?
+[patient] yes .
+[doctor] how often are you using that one ?
+[patient] after my face wash , i immediately apply the cream .
+[doctor] okay . and then , are you using any other kind of lotions or anything ?
+[patient] no .
+[doctor] so you're not using the cetaphil cleanser ?
+[patient] i'm not .
+[doctor] okay . and no neutrogena wipes ?
+[patient] no wipes .
+[doctor] okay . um , and then what about , um , any lotions that you're using ?
+[patient] i'm not using any lotion right now , just those two .
+[doctor] no lotion , okay . so that may be something else we should add in , a lotion to just help moisturize . but we'll see .
+[patient] okay .
+[doctor] um , and then again , when did you go down to just taking the doxycycline once a day ?
+[patient] that was last week . so the first two weeks , i did twice a day .
+[doctor] okay .
+[patient] and then i started seeing improvement , and then i changed to just once a day .
+[doctor] okay . let me take a look at your face here . i'm gon na describe for the transcriptionist what i'm seeing . you're fitzpatrick skin type iv , meaning you're not going to burn , you're going to sun tan , um , essentially , iv to v. and then on bilateral medial cheeks , there are a few really faint erythematous papules and just maybe a little bit of redness around and underneath your nostrils . so you're right , it's not totally gone .
+[patient] yeah .
+[doctor] i think i would go ahead and go back to twice a day , every day , with the doxycycline .
+[patient] okay .
+[doctor] uh , but i would pickup the elidel too .
+[patient] okay , i can do that .
+[doctor] i mean , out of known risks associated with medications , topicals are usually safer and preferable to oral medications . with that being said , doxycycline is low risk .
+[patient] it is ? okay .
+[doctor] um , and doxycycline can give you bad upset stomach or heartburn . um , it will make you sunburn , even if you never sunburn , so you have to protect yourself .
+[patient] yeah , i mean , i feel sun sensitive whenever i go out , so i am taking all the precautions , with wearing a hat and all of that .
+[doctor] great . i just wanted to make sure you knew about that .
+[patient] yes , i did . thank you .
+[doctor] all right . but i think to help get rid of it sooner rather than later , if insurance will cover the elidel , pick it up and start using it .
+[patient] yeah , i did check . the insurance is not covering it .
+[doctor] it's not ? okay . well , let's look around really quick because if you use a goodrx coupon , it will be around 30 to $ 40 or something .
+[patient] okay .
+[doctor] let's see .
+[patient] so with your coupon , it was around $ 850 or something .
+[doctor] ugh , yeah . that's way too much .
+[patient] i agree . and- and because i also looked at the eucrisa that you recommended in my notes , and if it's still ex- if it's still expensive , i could try that instead .
+[doctor] yeah , so it ... actually ... it is actually more expensive . i think the prices fluctuate .
+[patient] okay .
+[doctor] because now it's showing the cheapest of $ 70 , and when i looked before , it was around 30 to $ 40 .
+[patient] yeah . if it was around $ 200 , i would've picked it up . but it was coming to around $ 850 after insurance .
+[doctor] okay . so i've found the cream form . we could try ointment form .
+[patient] you mean the tacrolimus ?
+[doctor] yeah , mm-hmm .
+[patient] okay .
+[doctor] so if we send it to pick'n save or metro market ... let's see where else .
+[patient] can you do the metro market ?
+[doctor] yeah . let me put in the prescription and we'll see what we can find .
+[patient] sure .
+[doctor] pharmacy is what i'm trying to say .
+[patient] okay . but it's not a steroid , right ?
+[doctor] correct , it's not a steroid .
+[patient] okay , good .
+[doctor] it's called a calcineurin inhibitor . it's kinda like a steroid in that it calms inflammation .
+[patient] okay .
+[doctor] but it's not a steroid , so do n't use steroids on your face , for sure , as they'll make this kind of rash worse . but also , steroids carry the risk of causing thinning of the skin .
+[patient] all right .
+[doctor] these medications do n't cause thinning of the skin and they're not going to cause some other kind of rash . um , the thing to know is that sometimes five to 10 minutes after you put it on , it can cause this weird kind of tingly or needle-like sensation or make it redder or flush . but it should only last a few seconds and then go away . it's not an allergy or anything bad .
+[patient] okay . got it .
+[doctor] so it only lasts a couple seconds . it does n't mean it's going to happen again . it's nothing bad . it will still work , so keep using it as long as you know you can stand it , okay ?
+[patient] okay , thank you for explaining .
+[doctor] so i will say , "" apply to rash on face twice daily , until resolved . ""
+[patient] okay . so only apply to the rash area ?
+[doctor] yes , and keep using the face wash.
+[patient] okay .
+[doctor] i think you could just do it once a day . i do n't think you need to do it twice a day , just because i do n't wan na dry your sky out too much , okay ?
+[patient] i never noticed that my face is dry or got thin . i feel so good after using it .
+[doctor] i understand , but it could get dry and i do n't wan na create other problems for you .
+[patient] all right . i'll just wash once a day with it . but it was feeling very good , like there's this little bit of moisture getting back in . with the other wash , when i would use it twice a day , i was drying out . but not with this one .
+[doctor] i see . okay . well then do what feels good . if you do notice that you're starting to get dry , then reduce to once per day .
+[patient] that sounds good .
+[doctor] so to review , um , continue using the same face wash , continue with metro cream , and increase the use of doxycycline to twice a day .
+[patient] okay .
+[doctor] and then just do it until it's gone , and then do it for once a day for another week before stopping .
+[patient] okay , sounds good .
+[doctor] all right . and i'll rewrite your instructions here .
+[patient] thank you so much .
+[doctor] if there are any other questions or you're getting different instructions , feel free to reach out to me and we'll clarify , okay ?
+[patient] okay .
+[doctor] but in general , doxycycline is such a low risk . we're not gon na have you on this forever . but especially since we're adding the tacrolimus , i expect it will clear quickly .
+[patient] sounds good .
+[doctor] all right . and i just wan na really help knock it out as fast as possible , since you've been dealing with it for so long now . i would take it twice a day until it's gone , and then once a day for a week before you stop . i'll write it out like that . so twice a day until rash is gone , and then once a day for another week before stopping .
+[patient] okay .
+[doctor] once the rash stops , you can stop the tacrolimus ointment . um , continue doxycycline another week and then stop . but you can keep using the wash and the metro cream .
+[patient] okay , that sounds good . i can do that .
+[doctor] and then hold off until i see you again before you start back any of your old products . um , if it's starting to flair again , um , if it's just a little bit , you can try just doing the tacrolimus for a couple days , to see if that's enough . if it's not , then restart the dy- doxycycline as well .
+[patient] all right .
+[doctor] i do n't expect that to happen , but , you know , if it does , you have the tools . um , then you'll be seeing me for a followup . we can figure out what to do next . i would say if it's getting worse rather than better , just give me a call or send me a mychart message , okay ?
+[patient] yeah , sounds good .
+[doctor] do you have enough refills ?
+[patient] yeah , i think so .
+[doctor] okay . so it looks like you have another refill of the doxycycline , so you're good there . metro cream , you probably still have enough of that one .
+[patient] yes , i do .
+[doctor] all right . and i'll cancel the elidel cream , just so we do n't complicate your list . uh , you have plenty of the face wash still .
+[patient] yes .
+[doctor] okay . uh , and we'll get rid of the clindamycin from your list as well .
+[patient] and what would you suggest for a moisturizer ?
+[doctor] yeah , so for that i would do something really basic like vanicream . or even , if it's just really dry , you could use a little bit of petroleum jelly . um , i'll give you a couple samples , okay ? let's make sure we have a followup in about four weeks .
+[patient] okay , thank you .
+[doctor] okay . and i would stay away from any kind of anti-aging thing , any kind of plant thing . um , really let's just be sure we talk about any new products , or reach out to me if you're gon na try something else . um , let's go get those samples .
+[patient] okay , that sounds good .
+[doctor] for assessment and plan , perioral dermatitis , rosacea , including ocular rosacea , and copy and paste her patient instructions . i recommend that she gently wash her eyelids once a day with gentle cleanser such as vanicream , also use bruder mask as needed .","
+CHIEF COMPLAINT
+
+Follow-up nevi.
+
+HISTORY OF PRESENT ILLNESS
+
+Jacqueline Miller is a pleasant 29-year-old female who presents to the clinic today for the evaluation of a bilateral rosacea rash. The patient was last seen in clinic 2 weeks ago. She is no longer breastfeeding and began taking doxycycline once a day. She notes that initially she was taking it twice a day and noticed a lotta improvement. However, she has a small amount of rash left. She started using only one a day because she thinks the pharmacist advised her to do so. When she started doing that, the rash did not get any better. She states that she is using the sulfacetamide wash twice daily and immediately applies the metro cream. She denies using any other lotions at this time, but notes that she has read about the oral form of the elidel that is used in really high doses after transplants. She believes that this may be something else we should add to her medication.
+
+
+PHYSICAL EXAMINATION
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+• Cardiovascular: No murmurs, gallops, or rubs.
+
+Gastrointestinal: Tenderness to palpation of the colon and rectum in the bilateral lower quadrant.
+1+ skin texture: Trace to 1+ dermatological rash on the right upper quadrant and light tan on the left upper border that may be caused by ecchymosis. The patient is using the sulfacetamide wash twice a day.
+
+
+objective_results: #####EMPTY#####.
+
+X-ray of the face is reviewed and is unremarkable.
+Impression: Good.
+Abdominal x-rays are reviewed and reveal no changes in the appearance of the skin.
+Echocardiogram reveals no evidence of any changes in bone marrow function.
+Labs: White blood cell count is normal.
+Hemoglobin A1c is within normal limits.
+Icy skin is present.
+Rapid strep test is possible.
+Periodic steroid therapy is not recommended.
+Non-steroidal anti-inflammatory drug therapy is recommended.
+
+
+ASSESSMENT AND PLAN
+
+1. Doxycycline.
+- Medical Reasoning: The patient is doing well on this medication. She has experienced some plateaued improvement since she started taking it only once a day, but her rash has not improved significantly since she switched to taking it twice a day. We will continue to monitor her rash, but she should stop using the elidel and use the elidrol cream only when she needs it.
+
+2. Hydrocodone.
+ - Medical Treatment: She should continue using the hyaluronic acid cream and elidel. I want to see how she tolerates this over the next week and then we will discuss further treatment options. I also recommended that she follow up with me in a week to check on her rash.
+"

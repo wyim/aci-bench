@@ -84,7 +84,8 @@ Shortness of breath.
 
 HISTORY OF PRESENT ILLNESS
 
-Andrew Mitchell is a 59-year-old male with a past medical history significant for depression, type 2 diabetes, and hypertension who presents today with an upper respiratory infection. The patient reports that he started to feel very tired and shortness of breath in the last week or so. He notes that we are not wearing masks as much at the end of the summer and lastly, he thought he caught his first cold. He has been monitoring his blood pressures at home, and for the most part, the diet and blood glucose levels have been good. He is doing well with his depression. He states that his wife got him into barre classes, to help him relax and i think it is working. He denies any seasonal allergies. He reports feeling tension around his knees and elbows when he is lifting or carrying heavy bags of soil. He also reports feeling winded while walking around or at rest. He believes that this was because he was exerting himself. He does not have any fevers at all since this episode of"
+Mr. Drew is a 59-year-old male with a past medical history significant for depression, type 2 diabetes, and hypertension who presents today with an upper respiratory infection. The patient reports that he started to feel really tired, was short of breath, and had difficulty walking around or at rest in the last week. He notes that at that time, we were not wearing masks as much at the end of the summer and i think he caught his first cold and that it just got worse. He has been monitoring his blood pressures at home and has been doing well with his diet and his blood sugar levels. He states that his wife got him into barre classes, to help me relax and I think it's working. He denies any other symptoms like muscle aches, joint pain, fatigue, nausea, or vomiting. He does have a history of seasonal allergies at all, but denies any recent episodes of upper respiratory infections. He is doing well in terms of his depression.
+• Medical Reasoning: His depression has been stable for "
 virtassist,D2N089,"[doctor] hi andrea , how are you ?
 [patient] i'm doing well . how are you ?
 [doctor] doing well . uh , so i know the nurse told you about dax . i'd like to tell dax a little bit about you . okay ?
@@ -129,9 +130,11 @@ virtassist,D2N089,"[doctor] hi andrea , how are you ?
 [patient] good seeing you .
 [doctor] hey dragon , finalize the note .","CHIEF COMPLAINT
 
-Follow-up of a patient with a past medical history significant for rheumatoid arthritis, atrial fibrillation, and gastroesophageal reflux who presents today for her annual exam. It has been a year since I saw the patient.
+Right elbow pain.
 
-The patient reports that she has been walking, exercising, and doing yoga, and that has actually helped with her arthritis. She has also noticed that her symptoms flare up when she is stressed. She denies chest pain, shortness of breath, nausea, or vomiting. The patient has endorsed palpitations over the past year, and she has also endorsed nasal congestion due to her allergies. She is currently taking Protonix once a week, which has been helping with her palpitations. She also has a history of gastroesophageal reflux, which she has tried to treat with dietary modifications, but it has not been working. She does not have any joint pain, but she does have some stiffness in her right elbow, which resolves with the use of anti-inflammatories.
+HISTORY OF PRESENT ILLNESS
+
+The patient is a 52-year-old female with a past medical history significant for rheumatoid arthritis, atrial fibrillation, and gastroesophageal reflux who presents today for her annual exam. It has been a year since I saw the patient, and she has been walking like you told me to, exercising and doing yoga, and that's actually helped with her arthritis a lot, just the- the constant movement. She has also noticed that when she is stressed, her allergies flare up again. She denies any chest pain, shortness of breath, nausea, or vomiting. The patient reports that she has had palpitations over the past year. She states that her palpitations have been in and out of the office, but the last one was about a week ago. She continues to have palpitations when she gets stressed. She reports taking Protonix, which has helped. She also reports trying meditation and running with her dog, but it has not really been working. She does not have any joint pain recently. Her a-fib is slightly elevated at 6/6.
 "
 virtassist,D2N090,"[doctor] hi , albert . how are you ?
 [patient] hey , good to see you .
@@ -218,11 +221,11 @@ virtassist,D2N090,"[doctor] hi , albert . how are you ?
 [patient] perfect .
 [doctor] hey , dragon . finalize the note .","CHIEF COMPLAINT
 
-Follow-up emergency room follow-up.
+Follow-up of emergency room follow-up.
 
 HISTORY OF PRESENT ILLNESS
 
-Mr. Edwards is a 62-year-old male, with a past medical history significant for depression, type 2 diabetes, and kidney transplant, who is here today for emergency room evaluation. He presents for follow up of his elevated blood sugar readings. He notes that his wife wanted to take him in and check out his blood sugar levels over the weekend. He states that he has been pretty good with it, but he was nonadherent to staying on top of his blood glucose readings. The reason for the elevated levels is unclear. The patient reports that the patient felt a lot better when he was discharged from the hospital 3 weeks ago, when he saw Dr. Reyes, and everything seemed to be fine. He has been following his diet very closely and has been very busy during the week. On weekends, he is very busy, doing things. He is having people over, but this is not consistent on the weekends. His wife has advised him to stop eating fast food on his way home. He denies"
+Mr. Edwards is a 62-year-old male, with a past medical history significant for depression, type 2 diabetes, and kidney transplant, who is here today for Emergency room follow up. The patient was notified by his emergency room physician that his blood sugar was elevated. He states that he has been pretty good with it, but has been very busy on the weekends. His wife wanted to take him in and just have me checked out for his elevated blood sugar, so he was admitted today. He notes that the last time he saw Dr. Reyes was about 3 weeks ago, and everything seemed to be fine. He is feeling better now but we have been just grabbing meals at the cafeteria or picking up fast food on our way home and I just really wasn't monitoring what I was eating. He denies any changes in his diet. He continues to have people over on weekends. He has been diligent about following his orders, so it has been quite good so far. His depression has been stable. He reports that when he"
 virtassist,D2N091,"[doctor] hi jerry , how are you doing ?
 [patient] hi , good to see you .
 [doctor] good to see you as well . um , so i know that the nurse told you about dax . i'd like to tell dax about you .
@@ -268,9 +271,11 @@ virtassist,D2N091,"[doctor] hi jerry , how are you doing ?
 [patient] not at this point , no .
 [doctor] okay , great . hey dragon , finalize the note .","CHIEF COMPLAINT
 
-Follow-up of a patient with a past medical history significant for osteoporosis and multiple sclerosis who presents for an annual exam.
+Follow-up of a patient with a past medical history significant for osteoporosis and multiple sclerosis.
 
-The patient reports that he has been traveling all over the country. It has been kind of a stressful summer. He is adjusting to everything in the fall and so far it's been good, but ah, lack of sleep, it has been really getting to me. He has tried everything from melatonin to meditation to stretching out every morning when he gets up. He denies any issues with his joints, but he does have some weakness in his right lower extremities. He also has some right knee arthritis, but otherwise that looks good. The patient has been compliant with his fosamax medication. He reports taking the medication as directed. He states that his insomnia has been very bothersome. He does not take any strategies for it.
+SOCIAL HISTORY
+
+The patient is a 54-year-old male who presents for an annual exam. The patient reports that he has been traveling all over the country in the summer. It has been kind of a stressful summer and so far it's been good, but ah, lack of sleep, it has been really getting to me. He has tried everything from melatonin to meditation to stretching out every morning when he gets up. He does have some weakness in his lower extremities, but the reflexes are good. He denies any issues with his right leg. He also has a lingering issue with his knee surgery. He is taking fosamax, which has been well tolerated. He reports taking the medication for insomnia, but he does not have any issues at this time. He continues to take Tylenol for sleep. He states that his sleep has been getting worse since the last visit.
 "
 virtassist,D2N092,"[doctor] hello , mrs . martinez . good to see you today .
 [patient] hey , dr . gomez .
@@ -317,7 +322,7 @@ Right arm pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Ms. Martinez is a 43-year-old female who presents to the clinic today for the evaluation of right arm pain following a traumatic event. The patient was playing tennis when she was given a backhand, and when she did, she totally missed the ball, hit the top of the net but the pole part. and it just jarred her arm. She reports that she has pain when she bends her arm and flexes her thumb. She denies any numbness in her hand. She has a history of allergies and flonase use.
+Ms. Martinez is a 43-year-old female who presents to the clinic today for the evaluation of right arm pain following a traumatic event. She states she was playing tennis when she was given a backhand, and when she did, she totally missed the ball, hit the top of the net but the pole part, and it just jarred her arm. She reports that she has pain when she bends her arm and flexes her thumb. She denies numbness in her hand. She has a history of allergies to flonase, and so she takes Flonase 50 mg three times a day. She also has a past surgical history of a right wrist fracture. The patient states she has been treated conservatively with ice and anti inflammatory medications. She continues to use motrin 800 mg twice a day, with food. She does not get better in the next week or so, so we will refer her to physical therapy.
 "
 virtassist,D2N093,"[doctor] hey lawrence . how are you ?
 [patient] hey , good to see you .
@@ -391,7 +396,8 @@ Shortness of breath.
 
 HISTORY OF PRESENT ILLNESS
 
-Lawrence Smith is a 62-year-old male, with a past medical history significant for type i diabetes, congestive heart failure, depression, and reflux, who presents with complaints of shortness of breath during the holiday season. The patient notes that he has been swelling up a little bit. He has tried some natural solutions, but now the weather changed, he has found some alternatives. He is not ready to try any medications just yet, but he is open to some suggestions. In terms of his depression, the patient states he has problems lying flat in bed and feels stiff. He states that it takes him a little while to adjust to walking when he gets up. He denies any chest pain at night. He reports that when he walks up a flight of stairs, he feels short of breath, but denies any pain at that time. He also reports some swelling in his legs, which he thinks is related to his chocolate bar consumption. He endorses an affinity for chocolate bars, so he is guilty as charged.
+Lawrence Jones is a 62-year-old male, with a past medical history significant for type i diabetes, congestive heart failure, depression, and reflux, who presents with complaints of shortness of breath during the holiday season.
+• Medical Reasoning: The patient notes that he has been swelling up a little bit. He thinks a lot of it has to do with going to some house parties, eating some salty foods, and drinking alcohol. He denies fever, chills, or night sweats. The patient denies chest pain, but admits to difficulty walking in the morning and feeling stiff. He has tried some natural solutions, but the weather has changed and the patient has not been able to find some alternatives. He is also aware of his affinity for chocolate bars, so he denies sleeping flat in bed. He states he is guilty of eating chocolate bars as well as guilty of being charged for his depression.
 "
 virtassist,D2N094,"[doctor] hey , ms. james . nice to meet you .
 [patient] nice to meet you , dr. cooper . how are you ?
@@ -440,7 +446,8 @@ Right index finger pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Ms. James is a 42-year-old female who presents to the clinic today for the evaluation of right index finger injury. The onset of her pain began last Saturday. She states she was going down hill, double diamonds, and lost control and flipped down a few ways. She reports that she jammed her, her index finger on something while she was skiing. She denies any other injuries while she went down this double diamond. She has a history of chronic constipation and takes miralax 15 mg once a day. She rates her pain as 7 out of 10. The patient states that her pain is worse when she squeezes over the joint. She does not treat her pain with ice or splinting. Her x-ray shows a sprain of the right distal interphalangeal joint, of that index finger, which is called the dip joint. This is the only injury she has sustained while going down the double black diamond. There are no other injuries noted. She describes the injury as being unique to her. She wishes to see me in"
+Ms. James is a 42-year-old female who presents to the clinic today for the evaluation of right index finger injury. The onset of her pain began 5 days ago. She states she was going down hill, double diamonds, and lost control. She reports that she slipped down a few ways and hit her index finger on something. She denies any other injuries. She has a history of chronic constipation and takes Miralax 15 mg once a day. The patient rates her pain as 7 out of 10. She notes that her pain is worse when she squeezes over the joint. She does not iced it or put a splint on it. The x-ray of her right hand shows a sprain of the distar- distal interphalangeal joint. The bones are in the right places, no fractures, so the diagnosis is likely a sprain. She is advised to start hand therapy at that point. She plans to return in 2 weeks for follow-up.
+"
 virtassist,D2N095,"[doctor] hi , cheryl . how are you ?
 [patient] i'm doing well . how are you ?
 [doctor] i'm doing well . so i know the nurse told you a little bit about dax . i'd like to tell dax about you .
@@ -494,7 +501,8 @@ Back pain.
 
 HISTORY OF PRESENT ILLNESS
 
-The patient is a 34-year-old female with a past medical history significant for hypertension, who presents today with back pain. She states she has been walking a lot lately. She notes that when she was walking, her back suddenly seized up on her. She denies any trauma. The patient states that she was using her back more than her legs while she was doing deadlifts that day and then walked. She does not report any numbness or tingling in her legs or feet. She has been watching her diet and dieting with her boyfriend. She is taking lisinopril, which has been good. Her vital signs look great, which is good. She reports that her blood pressure has been well controlled at home for the last 2 weeks. She also denies any fever, chills, congestion, cough, chest pain, shortness of breath, or lower extremity weakness. Her last visit was about 6 days ago, when she had a sudden onset of back pain, which she states she felt like a spasm or something like that. She took ibuprofen and heat on her back, which improved"
+The patient is a 34-year-old female with a past medical history significant for hypertension, who presents today with back pain. She states she has been walking a lot lately. She notes that she was walking 30 minutes to an hour a day when she suddenly seized up on her back. The onset of her back pain was sudden and unexpected. She denies fever, chills, congestion, chest pain, shortness of breath, or any other symptoms. The patient denies any trauma before that happened. She has been watching her diet and dieting with her boyfriend. She reports lifting more, probably around 3 times a week. She is taking lisinopril, which has been good. Her blood pressure has been well controlled. Her back pain is localized to the lower back. She does not report any numbness or tingling in her legs or feet.
+• Medical Reasoning: The patient has been taking ibuprofen, and then i've been putting some heat on it, but it's still pretty stiff. She also denies any weakness in her lower extremities. Her last visit was about 6 days ago, and she"
 virtassist,D2N096,"[doctor] um , hi mrs. anderson . right ?
 [patient] yeah . yes , doctor .
 [doctor] what brings you here today ?
@@ -585,7 +593,7 @@ Left shoulder pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Mrs. anderson is a 44-year-old female who presents to the clinic today for the evaluation of left shoulder pain, which has been present for approximately 1 week. The onset of the pain began 1 week ago, and the patient notes that she was actually in gymnastics class, which may have caused her pain. The patient states she takes ibuprofen 600 mg three times a day and uses it for a week. She denies taking any other pain medications. She has a history of past surgery on her left arm, which does not seem to be related to her current pain. She states she uses a heat pad for pain relief. She reports that her left shoulder hurts when she moves up a little bit, but denies any kind of movement. She also states she has a past history of left arm surgery, which she states she does not use, but that it does hurt. She does use a right hand splint. The x-rays were obtained and reviewed today and reveal no signs of a broken bone or fracture. She is doing well, however,"
+Mrs. anderson is a 44-year-old female who presents to the clinic today for the evaluation of left shoulder pain, which has been present for approximately 1 week. The onset of the pain began 1 week ago, and the patient notes that she was actually in gymnastics class, which may have caused her to get over the counter and hurt her left shoulder. The patient states she has used ice and heat pads for pain relief. She denies any heavy weights or use of a right hand. She states that any kind of movement on her left arm actually hurts. She has a history of left upper extremity surgery, but this does not seem to be related to her pain. She continues to use ibuprofen 600 mg three times a day and use it for a week. Her last x-ray was obtained 3 weeks ago and it does not look like there is any broken bone or fracture. She is doing well, however, with regards to pain and function. The reason why it started or when it started to happen is unclear. She reports that"
 virtassist,D2N097,"[doctor] elizabeth , how are you ?
 [patient] i'm doing okay . how are you ?
 [doctor] doing okay . so i know the nurse told you about dax . i'd like to tell dax a little bit about you , okay ?
@@ -625,11 +633,11 @@ virtassist,D2N097,"[doctor] elizabeth , how are you ?
 [patient] okay .
 [doctor] all right . hey , dragon , finalize the note .","CHIEF COMPLAINT
 
-Follow-up evaluation of hypertension.
+Follow-up of hypertension.
 
 HISTORY OF PRESENT ILLNESS
 
-Elizabeth Brown is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam. It has been a year since she last saw the clinic. She reports that she has been able to get vaccinated, see her grandkids again, and go to more birthday parties. Her blood pressure has been running well. She has been using her blood pressure cuff once a day, and they seem pretty normal. She denies any carotid bruits in her neck. She does note a slight 2/6 systolic ejection murmur in her left ventricle, which we've heard in the past, so i think that her lungs in- are nice and clear. She is doing well. There has been so many events now that we've been able for her to see her grandchildren again. She states that it has been fantastic. The patient has had some communication over telehealth and that type of thing, but it is not the same as being in-person. She continues to use the blood pressure"
+Elizabeth Smith is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam. It has been a year since she last saw the clinic. She reports that she has been able to see her grandkids again, go to more birthday parties, and has been vaccinated. She is doing well. On physical examination, she does not appreciate any carotid bruits in her neck. On her heart exam, she has noticed a slight 2/6 systolic ejection murmur, which we have heard in the past, but she is doing a good job managing her blood pressure. Her heart rate is stable and her lungs in- are nice and clear. She has a good support system at home. The patient has been in communication over telehealth, but it is not the same as being in-person. The last time I spoke with the patient, she was talking about some nasal congestion. She denies any other symptoms, chest pain, shortness of breath, abdominal pain, nausea, vomiting, or weight loss. She states "
 virtscribe,D2N098,"[doctor] all right . today i am seeing jose james . uh , date of birth 9/29/1957 . mr . james is a new patient who's having pain in his left shoulder and elbow . he fell five months ago going up a stairs , and the pain has been present since .
 [doctor] hi mr . james , i'm doctor isabella . how are you doing ?
 [patient] i'm okay . thank you .
@@ -667,7 +675,9 @@ Left shoulder and elbow pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Mr. James Jones is a new patient who presents to the clinic today for the evaluation of constant pain in his left shoulder and left elbow. He fell 5 months ago going up a stairs, and the pain has been present since that time. He denies any numbness or tingling. He has tried ice, but it does not seem to help. He is unable to lift more than 15 or 20 pounds. He reports that he has always hit the gym and lifted weights, but over the past 1 to 2 weeks, he has not been able to do so due to pain. He notes that his pain is worse when he lifts. He states that it hurts when he presses the left shoulder or elbow, but this is not always the case. The patient has treated himself with ice and has not taken any medication. He continues to use his gym and lifts weights 2 days a week. He does keep up with his walking, however, his wife and I walk about 30 minutes almost every day. The pain"
+Mr. James Jones is a new patient who presents to the clinic today for the evaluation of left shoulder pain. He fell five months ago going up a stairs, and the pain has been present since. He denies any numbness or tingling. The patient states that he has always hit the gym and lifted weights. He has been trying to keep with his routine of two days a week, but it has been hard. The pain is worse when he lifts, and he has been unable to lift more than 15 or 20 pounds. He is experiencing constant pain in his left shoulder and left elbow for a while, about 5 months or so. He reports that it hurts all the time, pretty bad at times. He states he has iced a bit, but has not taken anything. He notes that his wife and I walk about 30 minutes almost every day. He does keep up with his walking, though it is difficult.
+The patient states he does not blame his office job last year.
+• Medical Reasoning: The patient"
 virtscribe,D2N099,"[doctor] next patient is randy gutierrez . date of birth , 8/10/2020 . please use review of symptoms . all text to write . physical exam , auto text uri .
 [doctor] hello , how are you doing today ?
 [patient_guest] we're okay , thank you .
@@ -773,7 +783,9 @@ Runny nose.
 
 HISTORY OF PRESENT ILLNESS
 
-Randy Gutierrez is a pleasant 29-year-old male who presents to the clinic today for evaluation of a runny nose and stuffy nose. The onset of his symptoms began around supper time last night. He notes that he started to get runny, stuffy, and has been pulling on his ears. He has been doing saline mist in his nose to help clear his mucous. He also uses the humidifier. He eats breakfast today and eats about 7 ounces from the bottle, but he barely eats that. He is energetic, but it seems like he can't go to sleep, like he is fighting it really hard. The patient has a history of a sinus infection. His older sister has been sick, and he has also had a play date with his nephew. He denies any other exposure to him. He does have a fever, but his rectal temperature is 100.3 degrees C, which is a low-grade fever. He reports that his whole body is sweating. He thinks he has a sore throat, but"
+Randy Gutierrez is a pleasant 29-year-old male who presents to the clinic today for the evaluation of a runny nose and stuffy nose. The onset of his symptoms began around supper time last night. He notes that he has been pulling on his ears and has been going crazy rubbing at his nose. He also has a cough, but it is not barky. He has a history of a sinus infection. He uses a humidifier to help breathe. The patient has been taking tylenol, which he thinks is a good choice, and he has also been eating breakfast this morning. He denies any other medications at this time. He states he is irritable because he is feeling energetic but it seems like he can't go to sleep, like he is fighting it really hard. His rectal temperature is 100.3, definitely low-grade fever.
+• Medical Reasoning:
+• Patient Education and Counseling: We discussed treatment options with the patient. He was advised to stop using the humidifier and "
 virtscribe,D2N100,"[doctor] kayla ward , date of birth , 4/28/07 . mrn 3-8-4-9-2-0 . she's here for a new visit with her mother for acne located on the face , which started about two years ago and is present most every day . she has been using persa-gel and washing regularly , which is somewhat helpful . there are no associated symptoms including itching , bleeding , or pain . no additional past medical history . she lives with her parents and sister . they have a dog , bird , and bunnies . she is in 7th grade . she plays basketball and volleyball and tap . she wears sunscreen in the summer , spf 30 . no additional family history . hi kayla , i'm dr. juan price . i hear you are starting to get some acne on the face . how about the chest and back ?
 [patient] it's not too bad .
 [doctor] so , it's not bad on the chest or back . you've used some over the counter items like washes and persa-gel ?
@@ -813,7 +825,8 @@ Acne vulgaris.
 
 HISTORY OF PRESENT ILLNESS
 
-Kayla Ward is a 14-year-old female who presents today for a new visit with her mother for acne located on the face, which started about 2 years ago and is present most every day. She has been using persa-gel and washing regularly, which is somewhat helpful. There are no associated symptoms including itching, bleeding, or pain. There is no additional past medical history. She lives with her parents and sister. They have a dog, bird, and bunnies. She is in 7th grade and plays basketball and volleyball and tap. She wears sunscreen in the summer, spf 30. No additional family history. The patient reports that her acne flares with school sports. She states that she has been doing a good job with the facial care regimen, but that it does not seem to help as much as we wanted. She denies any associated symptoms. She endorses the need for a regular period, however, she does note that the acne flares when she starts school sports, which may be related to her sweating. She thinks she has a regular"
+Kayla Ward is a 14-year-old female who presents today for a new visit with her primary care physician. She has been using persa-gel and washing regularly, which is somewhat helpful. She denies any associated symptoms including itching, bleeding, or pain. There are no additional past medical history. She lives with her parents and sister. they have a dog, bird, and bunnies. She is in 7th grade. She plays basketball and volleyball and tap. She wears sunscreen in the summer, spf 30. There is no additional family history. The patient reports that she has been doing a good job with the facial care regimen. She thinks that her acne flares with school sports. She states that this is due to all the sweating she experiences. She does not think it is related to the acne. She continues to use the super clarity cleanser. She also uses a toner and then the persa gel every night. She notes that it does not seem to help as much as we wanted.
+"
 virtscribe,D2N101,"[doctor] patient is julia jones , date of birth 5/16/1996 . she is a new breast reduction consult . hello , how are you doing today ? i'm dr. gonzalez . it's nice to meet you .
 [patient] nice to meet you , ma'am . how are you ?
 [doctor] i'm doing good , thank you . so you're here to discuss a breast reduction , correct ?
@@ -897,7 +910,7 @@ Back pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Julia Jones is a new breast reduction consult. She presents today for the evaluation of back pain. She has been going to the chiropractor for a few years. She reports that her back pain has been present since she was in high school. She denies any numbness or tingling in the s- in hands or any nipple pain. The patient states that she has been working at her desk all day and has been experiencing pain in her neck and upper back. She is currently undergoing a breast reduction procedure and plans to submit for approval in July. She does not have any children, however, she is planning to have a child in near future. Her insurance provider is Blue Cross Blue Shield, which may be changing. She states she has a history of migraine and takes propranolol, which is a migraine medication. Her primary care provider is Dr. Gonzalez, who performs a lot of breast reduction surgeries, pretty much every week, so it is a very common procedure for her. She believes that the pain is from her breasts and builds up over time. At this "
+Julia Jones is a new breast reduction consult. She presents today for the evaluation of back pain. She denies any numbness or tingling in the s- in her hands or any nipple pain. The patient reports that she has been going to the chiropractor for a few years. She has a history of blue cross blue shield since she was in high school. She states that her husband just accepted a new job and will be on his plan, which is not blue cross, but it may be changing. Her last mammogram was performed in July of 1996, and she is doing well. She reports she is wearing a G cup. She does not wear a regular bra that often, but she does wear a 34 e sports bra because it is more comfortable and the others are expensive in her size. There is no history of migraines. She also denies any skin rashes. She notes that it has been in her back for about 6 or 7 years, but i mean, it has always been the back of her mind. She is a regular breast reduction surgeon. She performs a lot of breast reduction"
 virtscribe,D2N102,"[doctor] kelly wood . date of birth , february 15th , 1979 . established patient here for renal ultrasound because of hematuria . urine dipstick today . negative for leukocytes , nitrates , protein , ketone , bilirubin and glucose . color yellow and clear , urobilinogen 0.2 , ph 5.5 and specific gravity 1.020 . there is a trace amount of blood in the urine and intact . renal ultrasound impression . right kidney is 10 cm in length by five centimeter wide . there are no stones , masses or hydronephrosis . the left kidney is 10.8 centimeters in length and five centimeters wide . there is a six millimeter left renal stone non-obstructing . 533 milliliters pre-void and 0 milliliters post-void . hi , mrs. wood . i see you're just finished your ultrasound .
 [patient] yes , ma'am .
 [doctor] well , it looks like you have one stone in the left kidney but it's not obstructing anything .
@@ -930,7 +943,7 @@ Kidney stones.
 
 HISTORY OF PRESENT ILLNESS
 
-Kennelwood is an established patient here for renal ultrasound because of hematuria. The patient reports that she has been experiencing intermittent flank pain for the past 6 weeks. She denies any flank pain or tenderness in her lower back. She has been drinking approximately 125 ounces of water a day and avoiding sugary drinks. She is taking alavert 10 mg daily and has no drug allergies. The blood in her urine appears to be due to kidney stones. There is no stones, masses or hydronephrosis. The left kidney is 10.8 cm in length by five centimeter wide and there is a 6 mm left renal stone non-obstructing. Blood in the urine pre-void and 0 milliliters post-void. She reports a few episodes of bright red urine the color of cherry kool-aid. She notes that her last week, she was constantly having to pee and it hurt something terrible. She passed two small stones last week and the blood has nearly subsided. Her symptoms have improved after passing the stones."
+Kennel Wood is an established patient here for renal ultrasound because of hematuria. The patient reports that she has had a few episodes of bright red urine the color of cherry kool-aid. She has been constantly having to pee and it hurts something terrible. She denies any flank pain or tenderness in her lower back. She states she drinks approximately 125 ounces of water a day and avoids sugary drinks like mountain dew. Her weight is 250 pounds and she has no drug allergies. She drinks approximately 1,000 milligrams of sodium a day. She does avoid processed foods because they are high in sodium. She is a vegetarian and avoids beef, poultry, fish, and pork. She also has a family history of kidney stones and certain medical conditions such as hypertension, diabetes, and kidney stones. She passes two small stones last week and the blood in her urine has nearly subsided. There is a 6-mm left renal stone non-obstructing. Her urine is negative for leukocytes, nitrates, protein, ketone, bilirubin and glucose. The urine is"
 virtscribe,D2N103,"[doctor] next patient is melissa sanchez . date of birth , 9/23/1962 . mrn : 5484367 . she is being seen in office today for status post mitral valve repair done on 8/3/2020 . at her previous follow-up on 9/17 , we felt that she was doing quite well from a cardiac standpoint , and so we recommended she continue with the same medication . ecg taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response . t-wave inversion anteriorly . compared to the previous study , there are no significant changes , and please add in the history , patient has a history of mitral regurgitation and atrial fibrillation , history of diabetes , asthma , and recurrent chest discomfort with negative cardiac workup for coronary artery disease .
 [doctor] ms. sanchez , it's good to see you again .
 [patient] yeah , it's good seeing you too dr. hughes . you look like you're doing well .
@@ -983,7 +996,7 @@ Atrial fibrillation.
 
 HISTORY OF PRESENT ILLNESS
 
-Melissa Sanchez is a 62-year-old female who presents for status post mitral valve repair done on 8/3/2020. At her previous follow-up on 9/17, we felt that she was doing quite well from a cardiac standpoint, and so we recommended she continue with the same medication. Ecg taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response. T-wave inversion anteriorly. compared to the previous study, there are no significant changes, and please add in the history of mitral regurgitation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. The patient is taking Lasix, atenolol, and Coumadin. She is trying to keep up with her medications and has a reminder app. She notes that there is a lot of extra pills now. She states that when it happens, she just takes the day nice and slow, i do not push herself. She reports that her breathing gets shallow at times, but that it helps. She has"
+Melissa Sanchez is being seen in office today for status post mitral valve repair done on 8/3/2020. At her previous follow-up on 9/17, we felt that she was doing quite well from a cardiac standpoint, and so we recommended she continue with the same medication. ecg taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response. t-wave inversion anteriorly. compared to the previous study, there are no significant changes. She is taking Coumadin, Lasix, and atenolol. She also has a history of mitral regurgitation, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. Ms. Sanchez is using her status post template to monitor her progress. She reports that her chest discomfort is getting worse. She denies any new symptoms. She states she is doing well with her medications. She notes that when it happens, she takes the day nice and slow, and does not push herself. She tries to keep up with that. She has a reminder app."
 virtscribe,D2N104,"[doctor] judy gomez , mrn 869723 . date of birth , 5 , 7 , 1961 . she's in office today for ongoing management of psoriatic arthritis . hello , judy , how are you doing today ?
 [patient] i'm doing good , thank you . how are you ?
 [doctor] i'm great , thanks . so how have you been since the last time ? i know the last time we were talking about decreasing your prednisone dose , correct ?
@@ -1018,11 +1031,11 @@ virtscribe,D2N104,"[doctor] judy gomez , mrn 869723 . date of birth , 5 , 7 , 19
 [patient] all right . it sounds good . thank you so much , it was great to see you .
 [doctor] it was great seeing you too . thank you .","CHIEF COMPLAINT
 
-Follow-up of psoriatic arthritis.
+Follow-up for ongoing management of psoriatic arthritis.
 
 HISTORY OF PRESENT ILLNESS
 
-Jey Gomez is a pleasant 57-year-old female who presents today for ongoing management of her arthritis. She was referred from the hotline because she was in so much pain with the first prednisone dose. She states that she felt absolutely horrible until she took an extra dose a week later. She notes that when she bends the knee, her joints tend to hurt a bit more. She has a desk job, so when she has a day off where she is moving around a lot, the joints hurt. She takes methotrexate once a week. She reports bruising when she bumps herself. She denies that it is due to the prednisone, but it is probably from taking the vaccine. She does note that the bruises do not appear when she does bump herself. The patient reports that her nails are fine, but she does have some ridges in her toenails. She is doing pretty good with her prednisone today, but there is a couple of days with extra pain in her feet. She also notes "
+Jey Gomez is a pleasant 53-year-old female who presents today for follow-up of her psoriatic arthritis, which she has been doing pretty good for the past 3 months. The patient states that she has a desk job, so when she is moving around a lot, her knees tend to hurt a bit more. She reports that when she bends the knee, her feet also get a little extra pain. She took prednisone for a couple of days, but the bruising did not appear until that time. She has been taking methotrexate, which has also been helpful. She states the pain is localized to her knees and feet. She denies any bruising in her hands or feet when she bumps her hands. She notes that her shoes and socks do not take a look. She also states she takes prednisone once a week, which is likely due to the high-risk nature of the medication. She continues to use prednisone as needed for her psoriasis, but she has discontinued the prednisone due "
 virtscribe,D2N105,"[doctor] patient's name is diana scott . date of birth , 12/8/1920 . the date of service is 7/9/2021 . this is a new patient note .
 [doctor] good afternoon . how are you today ?
 [patient] i'm good , thank you .
@@ -1121,11 +1134,12 @@ virtscribe,D2N105,"[doctor] patient's name is diana scott . date of birth , 12/8
 [doctor] her next problem , hypolipidemia , is managed by her pcp . due to bilateral leg pain over the last month , considered tavr evaluation following echocardiogram . statin could be indicated .
 [doctor] and next problem , lightheadedness , dizziness . she is on meclizine for this . it is possible that some of her lightheadedness and dizziness is related to the aorta stenosis , and we will do an echocardiogram as noted above . pvcs on her ekg could be contributing , but she does not feel palpitations . we will consider a monitor , but start with the echocardiogram first as noted above . follow up three to four weeks after her echocardiogram is done to discuss results and next steps . end of dictation .","CHIEF COMPLAINT
 
-Heart murmur.
+Congestive heart failure.
 
 HISTORY OF PRESENT ILLNESS
 
-Diana Scott is a pleasant 60-year-old female who presents to the clinic today for the evaluation of a worrisome heart murmur. The patient reports that she has been experiencing severe leg pain for about a month. She has started taking pain pills for her legs. She denies shortness of breath or chest pain. She does have irregular heartbeats, but she does not think this is related to her symptoms. She states that her legs have been severe for approximately a month, and so she has had a chest x-ray and that was just last week. Her symptoms are similar to 6 months ago, but her symptoms are more severe now. She is worried about her heart murmur and has tried to overdo it, but has not had any improvement. She continues to drink a whole glass of water without stopping. She takes a pain pill every day, but only when she does feel dizzy. She also tries to stop walking when she feels lightheaded. She reports she is 100% compliant with taking her pain pills every day. She"
+Diana Scott is a pleasant 60-year-old female who presents to the clinic today for a new patient note. The patient reports that she has been experiencing severe pain in her legs for about a month. She has started taking pain pills for her legs. She states that her legs have been severe for approximately a month now. She denies shortness of breath, chest pain, or fatigue. She also denies lightheadedness, dizziness, or weight loss. She does note that irregular heartbeats sometimes occur, but she does not think that this is related to her heart murmur. She is 100% compliant with her medications. She admits to weight gain over the past 6 months, but this has not been as great as she would like to. She reports she has lost approximately 10 pounds in the last 6 months. Her last chest x-ray was just last week, and she did not have any chest pain. She continues to use her pain pills. She takes Naprosyn 10 mg twice daily for her leg pain.
+"
 aci,D2N106,"[doctor] hey charles i'm using this cool new recording device to help me with my documentation is that okay with you
 [patient] sure
 [doctor] awesome how are you doing today
@@ -1195,7 +1209,8 @@ New onset asthma.
 
 HISTORY OF PRESENT ILLNESS
 
-The patient is a pleasant 57-year-old male who presents to the clinic today for the evaluation of shortness of breath. The onset of his symptoms began 2 years ago when he moved out in the city and purchased a big plot of land. The patient states that he bought this land approximately 2.5 years ago for landscaping and landscaping. He states he was a hunter and loves hunting. He has a refrigerator full of venison at home. He is heavy drinking and has diarrhea quite a bit once he goes out. He denies any allergies. He notes he has a dog that eyes water like that she always gets eyebugers. He reports that when he is near his cat, he has noticed the symptoms in all three situations. He does not have any other symptoms that may be related to his allergy. He continues to use a nebulizer that helps with his symptoms. He also takes albuterol 10 mg daily. All questions were answered and the patient agrees with the recommended medical treatment plan."
+The patient is a huge hunter who loves hunting. She has a refrigerator full of venison at home. She is heavy drinking and has diarrhea quite a bit once she goes out. The patient has a dog that causes eyes water like that she always gets eyebugers. She denies any travels or allergies in the past. Her last visit to the urgent care was 2 years ago when she had mid shortness of breath for some reason. She was prescribed a nebulizer that helped her with her symptoms. She continues to use her inhaler today. She does not appear to be in any distress at this time. Her vital signs look good and her pulse is normal so that that's good news if she is going out heavy drinking. She states she does not have any nausea or vomiting. She also denies any lip or throat swelling. She reports no audible stridor which is a bad noise in her airway when it gets swollen. There is a history of a dog in her house. She thinks this is due to her being near her cat.
+"
 aci,D2N107,"[doctor] so bryan it's nice to see you again in the office today what's going on
 [patient] i was in my yard yesterday and i was raking leaves and i felt fine and then when i got into my house about two hours later my back started tightening up and i started getting pins and needles in my right foot
 [doctor] alright have you ever had this type of back pain before
@@ -1244,11 +1259,7 @@ Back pain.
 
 HISTORY OF PRESENT ILLNESS
 
-The patient reports that he was in his yard yesterday and raking leaves. He felt fine initially, but then when he got into his house about two hours later his back started tightening up and he started getting pins and needles in his right foot. He denies any prior pain with the back. The patient states that his pain is worse when he is standing up. He has tried ice and meloxicam, but it does not help. He also notes that the pain improves with a hot shower and that it feels a little better when he lies down. The pain is localized to the right lower back. He reports pain to palpation right around the L5 level. He is worried about it because his pain tolerance is so high and he would not be saying anything if it really wasn't a problem because it is not at all like last week when he thought about raking but did not actually rake leaves but this time it did not hurt as much but it really hurts
-
-REVIEW OF SYSTEMS
-
-Musculoskeletal: Reports right"
+The patient reports that he was in his yard yesterday and raking leaves. He felt fine and then when he got into his house about two hours later his back started tightening up and he started getting pins and needles in his right foot. He denies any prior back pain. The patient states that it is more of a long term injury. He has been doing yard work for the past several months, but denies any physical activity. He reports the pain is worse when he is standing up. He notes that the only thing that helped was a hot shower and it feels a little better when he sits down. The pain is localized to the right side of the back. He also reports some pain to palpation right around the L5. He states he has a tingling sensation in which he feels when he stands up, but this does not appear to be related to his pain. He is worried about it because he is not thinking about it when he thought about raking but it did not occur last week. He does not want meloxicam"
 aci,D2N108,"[doctor] hey gregory good to see you today so take a look at my notes and i see that you're here you've had a nonhealing foot ulcer so can you tell me how you're doing how long have you had it what's going on with it
 [patient] sure so i've had it for about two months now and it's recently become red and is draining so i was concerned about how it's healed
 [doctor] okay and when you when you got it would you have any trauma to your foot or it just just did it pop up all of a sudden
@@ -1289,11 +1300,8 @@ Nonhealing foot ulcer.
 
 HISTORY OF PRESENT ILLNESS
 
-Gregory Brown is a pleasant 67-year-old male who presents to the clinic today for the evaluation of a nonhealing right foot ulcer that has been present for approximately 2 months. The patient reports that he has been walking barefoot on the beach at the time of his injury. He denies any trauma to his foot. The onset of his pain was sudden and he was concerned about not being able to heal the ulcer. He has been prescribed clindamycin 4 mg twice a day for 7 days and has recently become red and is draining. He is concerned about how well the wound is being controlled. We discussed the diagnosis and treatment options with the patient. He was advised to obtain an x-ray of the right foot and there was no evidence of osteomyelitis. He also received a prescription for Mab, but he did not pick them up from the pharmacy yet
-
-INSTRUCTIONS
-
-The patient will follow up with me in 2 weeks to check on his progress."
+The patient is a pleasant 67-year-old male who presents to the clinic today for the evaluation of a nonhealing right foot ulcer that has been present for approximately 2 months. The patient notes that he has been walking barefoot on the beach at the time of his injury. He denies any trauma to his foot or it just popped up all of a sudden at that time. He has been taking clindamycin 4 mg twice a day and has recently become red and is draining so he was concerned about how it is going to heal. He reports that his last hemoglobin A1c (HbA1c) was around 10. He does have diabetes, however, as far as his diabetes is concerned, he does not know what his last HbA1c was.
+- Medical Reasoning: The patient states he was at dewey beach in the ambulance when he hurt his foot, which sounds like fun, but he denies any specific pain. He states that it does not feel like increased pressure but it does feel like"
 aci,D2N109,"[doctor] so stephanie morales is a 36 -year-old female today complaining of her ankle pain and she also has a history of diabetes and high blood pressure so stephanie tell me what's going on with your ankle
 [patient] well we had a long spring and the other day we got some snow and ice i was walking to my car and i slipped and my left ankle kinda turned underneath me
 [doctor] okay and so this happened couple days ago or how many days ago
@@ -1339,15 +1347,13 @@ Left ankle pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Ms. Morales is a 36 -year-old female who presents to the clinic today complaining of her ankle pain and swelling. She also has a history of diabetes and high blood pressure. The onset of her pain began 2 days ago when she slipped and turned underneath her left ankle while walking to her car. She was able to get up afterwards, but it was very sore and then started swelling and quite a bit of pain. She has not tried anything for pain or the swelling. The patient has been taking Norvasc, but she is due for a refill on that in the next couple of weeks. She is doing well with her diet and exercising. Her hemoglobin A1c is 6.8%.
+Ms. Morales is a 36 -year-old female who presents to the clinic today complaining of her ankle pain and swelling. She also has a history of diabetes and high blood pressure. The onset of her pain began 2 days ago when she slipped and turned underneath her left ankle. She was able to get up afterwards, but it was very sore and then started swelling and quite a bit of pain so it was hard to walk. The patient states that she has tried ibuprofen and elevation but has not had much relief. She denies any pain above her calf, lower leg, or knee. She reports that her blood pressure has been stable for the past several months. She does have a 2 over 6 systolic ejection murmur, however, this has been unchanged from before. She is doing well with her diet and exercises. Her hemoglobin A1c is 6.8%.
 
 REVIEW OF SYSTEMS
 
-Musculoskeletal: Reports left ankle pain, swelling, and tenderness. Denies any pain above her calf, lower leg, or knee.
-Neurological: Reports right foot numbness.
-Cardiovascular: Reports dyspnea on exertion.
-Respiratory: Denies cough.
-Genit"
+Musculoskeletal: Reports left ankle pain, swelling, and tenderness.
+Neurological: Reports neck pain, but no bruits.
+"
 aci,D2N110,"[doctor] okay hi wayne well i understand you're here for you've got a sore on your foot that's not healing is that right
 [patient] yes
 [doctor] so can you tell me about that how are you doing
@@ -1392,24 +1398,17 @@ Left foot sore.
 
 MEDICAL HISTORY
 
-Patient reports history of diabetes mellitus and right foot neuropathy. He has been doing okay but has had a sore on his right foot for 2 to 3 weeks. He notes that when he takes his sock off sometimes it sticks to the wound even when he puts a band-aid on it. He denies any other symptoms like fever, chills, drainage, or anything along those lines
+Patient reports history of diabetes mellitus and right foot ulceration. The patient has been doing okay but has had this wound on his right foot for a couple of weeks and it is not getting better. He saw his podiatrist and they referred him to the clinic today for further evaluation and treatment. He states that he has been putting a band-aid on his wound but it sticks to his foot even when he takes his sock off. He denies any other symptoms like fever chills drainage from the wound or anything along those lines
 
 REVIEW OF SYSTEMS
 
-Musculoskeletal: Reports right foot pain.
-Neurological: Denies right foot numbness.
+Musculoskeletal: Examination of the right foot shows a 1 by 2 inch circular wound. There is some yellow slough present with minimal granulation tissue and there is no surrounding erythema or cellulitis. No evidence of fluid collection. No bony exposure is appreciated on vascular exam. There are palpable bilateral femoral and popliteal pulses. No palpable dp or pt pulses
+
 VITALS
 
-PHYSICAL EXAM
-
-Respiratory
-- Auscultation of Heart: Regular rate and rhythm. No murmurs, gallops, or rubs.
-- Examination of the right foot: There is some yellow slough present with minimal granulation tissue. There is no surrounding erythema or cellulitis. No evidence of fluid collection. No bony exposure on vascular exam
-
-ASSESSMENT AND PLAN
-
-1. Right foot sore, non-healing, chronic non-traumatic, diabetic neuropathy
-- Medical Reasoning:"
+All vital signs are within normal limits.
+Respiratory rate is 16 breaths per minute.
+Blood pressure is one "
 aci,D2N111,"[doctor] hey william so i see that you injured your knee could you tell me a bit about what happened
 [patient] yeah i thought it was a good idea to go to the trampoline park with my wife and heard a snap and instant pain when i was on the trampoline
 [doctor] okay alright and so do do you go to the trampoline park often
@@ -1473,12 +1472,13 @@ aci,D2N111,"[doctor] hey william so i see that you injured your knee could you t
 [doctor] okay so do you mind getting up and walking for me really quickly alright so i do notice that there is a slight gait like there is a small sorry you are correcting you do have a limp i i am a little worried about that but it's probably it's probably the superficial when i'm looking at your knee i do notice some like ecchymosis and edema that just means bruising and swelling along the lateral aspect of your knee i do n't notice any effusion and it looks like you have a decent range of motion but i do understand that you know you are experiencing pain with some movement okay i'm gon na go ahead and order an x-ray and when you come back we can have that discussion alright so i reviewed the results of your right knee x-ray which showed no evidence of fracture or bony abnormality so let's talk about my assessment and plan alright so for your first problem of right knee pain i think you have a lateral a lateral ligament strain i wan na prescribe some meloxicam which is gon na be fifteen milligrams daily for pain and swelling i'm gon na refer you to physical therapy to help strengthen the muscles around the area and to prevent further injury if you're still having pain we can do further imaging imaging but like this is a common injury that tends to heal on its own for your second problem with hypertension i wan na continue the lisinopril at twenty milligrams and order an echo i am concerned that we might not be getting your blood pressure to where we need it to be so we might have to do some medication modification for your third problem with diabetes i wan na order an a1c i know that you said you have been measuring your blood sugars but i think this would give us a better image of what's been happening long term and i also wan na order a lipid panel in case we need to make any adjustments to that medication as well do you have any questions
 [patient] sounds good
 [doctor] alright awesome","CHIEF COMPLAINT
-Right knee pain.
 
-MEDICAL HISTORY
+Right knee sprain.
 
-Patient reports taking lisinopril 20 mg twice a day and metformin 500 mg three times a day. The patient states that they have not been consistent with their exercise regimen. He denies any pain with ice or heat use. He notes that he has heard a pop when he landed on the trampoline. The pain is localized to the right knee based on x-rays of the patient's right knee, which reveal a posterior cruciate ligament tear. His blood pressure is elevated at 160/80 mmHg. He reports that his blood sugar is slightly better than his previous level.
-The patient denies any history of knee pain or swelling.
+HISTORY OF PRESENT ILLNESS
+
+Patient reports that he injured his knee while playing trampoline with his wife. He heard a snap and instant pain when he landed. He denies taking any medication. The patient reports taking lisinopril 20 mg twice a day. He notes that his blood pressure is slightly elevated on most days, but he is not comfortable with that. He has not tried anything else like ice, heat, or elevation of his heart rate. He does not like to come to the doctor for the pain.
+The patient has a history of type 2 diabetes and has been taking metformin 500 mg three times a week. He states that the blood sugar levels are slightly higher than usual. He is doing well with his exercise regimen.
 "
 aci,D2N112,"[doctor] hey matthew i see here that you've had some back pain for a while and your pcp sent you over to see me how're you doing today
 [patient] pretty good i'm feeling pretty good do n't like the weather you know i've been sitting in the waiting area for you know thirty minutes and that definitely makes the symptoms worse
@@ -1513,27 +1513,12 @@ aci,D2N112,"[doctor] hey matthew i see here that you've had some back pain for a
 [doctor] alright so four out of five strength in the left and five out of five on the right does look like that reflexes are brisk and motor and sensory is intact in both lower extremities i do wan na review the results of your mri the mri shows a disk herniation at the level of l4 l5 vertebrae and it is associated with some nerve root impingement and what that means is the nerve is being compressed by that herniation so let me tell you a little bit about my assessment and plan okay so for the diagnosis of of acute disk herniation at l4 l5 with that nerve root impingement that's causing that pain down your leg and your lower back pain now i know you've tried nsaids in the past without relief and you've done some pt so what i'm going to do is i'm gon na recommend an epidural steroid injection and we're gon na do that today for you if you agree to it what that means is gon na place some anti-inflammatory medication right at the spot of inflammation and once that's in place i wan na refer you back to pt and we wan na strengthen that area mkay you're young and otherwise healthy i think you'll do well but it can take about two to three weeks for that injection really to take full effect so then i want you to see pt and i want you to see me again in about a month are you okay with that treatment plan
 [patient] sure sounds good
 [doctor] alright sounds good i'm gon na have the nurse come in and get you prepped and then we'll get that injection for you","CHIEF COMPLAINT
+
 Back pain.
-MEDICATIONS
 
-Patient reports taking no medications.
+HISTORY OF PRESENT ILLNESS
 
-REVIEW OF SYSTEMS
-
-Musculoskeletal: Reports lower back pain. Denies numbness or tingling in the lower extremities.
-Neurological: Denies lower extremity weakness.
-VITALS
-
-PHYSICAL EXAM
-
-Respiratory
-- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
-- Examination of Abdomen: Slight tenderness to palpation over the right lower quadrant. No bruits or ecchymosis. No clubbing. No hematoma, bruising, or hematochezia. Positive Murphy's sign on the bilateral lower quadrants. No disc herniation. Positive straight leg raise test. Positive Lachman's test, positive at the L5-S1 level, is also positive.
-ASSESSMENT AND PLAN
-
-1. Back pain, right-sided.
-• Medical Reasoning: The patient states that her back pain has been bothering her for a long time. She denies fever, chills, or any other symptoms.
-"
+Patient reports history of back pain for a while and his pcp sent him over to see me today. The patient states that he has been sitting in the waiting area for the past 30 minutes and that this has made his symptoms worse. He denies any numbness or tingling in his lower extremities or weakness there in his legs. He notes that when he goes to the mall, his pain radiates down the left leg. He has been taking his medications, but this does not seem to make his symptoms better. He mentions that his back pain started about 30 years ago when he fell off the roof and was really bothersome. He had a friend that saw him and he was just seeing if there was something that could do to get him out of this pain. He mentioned that sometimes sitting or laying down anything there make it better. His back pain has been bothering him for a long time, but it has been really bad for about a month. He rates his pain as 6 out of 10 at this time."
 aci,D2N113,"[doctor] hi jacqueline how are you doing today
 [patient] i'm doing okay i'm just really anxious about my recent blood work that my pcp did and said that i have hepatitis c i'm just really surprised because i've been feeling fine
 [doctor] okay so were you ever told in the past that you have hepatitis c
@@ -1578,28 +1563,11 @@ aci,D2N113,"[doctor] hi jacqueline how are you doing today
 [patient] okay bye
 [doctor] bye","CHIEF COMPLAINT
 
+Hepatitis C.
+
 HISTORY OF PRESENT ILLNESS
 
-John Cunningham is a pleasant 45-year-old male who presents to the clinic today for an evaluation of elevated liver enzymes. The patient states he is anxious about his recent blood work that his pcp did and said that he has hepatitis C. He denies any history of hepatitis C in the past. He states he has been clean for over fifteen years.
-
-REVIEW OF SYSTEMS
-
-Constitutional: Denies fevers, chills, or weight loss.
-Gastrointestinal: Reports normal bowel sounds.
-Musculoskeletal: Reports no joint pain.
-Neurological: Reports good gait.
-Skin: Appears in no distress and no jaundice on skin exam
-
-PHYSICAL EXAM
-
-Respiratory
-- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
-- Examination of Heart: Regular rate and rhythm with a 2 out of 6 systolic murmur appreciate appreciated that has not changed from last year. No murmurs, gallops, or rubs appreciated
-
-ASSESSMENT AND PLAN
-
-1. Hepatitis C.
-"
+John Cunningham is a pleasant 45-year-old male who presents to the clinic today for the evaluation of hepatitis C. The patient states he was very anxious about his recent blood work that his pcp did and said that he has hepatitis C, however, he has been feeling fine since that time. He denies any history of intravenous drug use. He has been clean for more than 15 years. He reports drinking a lot of alcohol, but only slightly more on the weekends. He is a heavy smoker and has cut down from 2 to 1 pack and a half a day. He also tends to be a workaholic, but this has not changed from last year. His last physical exam was done 3 months ago, which was normal. He appears in no distress and no jaundice on skin exam. His heart sounds are clear with a 2 out of 6 systolic murmur appreciated appreciated. He does not have hypertension, diabetes, or depression. He states he is doing well on his anti-HCV therapy and has been compliant with his medication regimen. There is no"
 aci,D2N114,"[doctor] alright
 [patient] good morning Julie how are you doing today
 [doctor] i'm doing okay i'm just a little nervous about what's been going on with my headaches
@@ -1635,27 +1603,25 @@ aci,D2N114,"[doctor] alright
 [patient] yeah that's a great question here i i'm gon na go ahead and we're gon na for the mri i'll have to get a preapproval from your insurance company i will work on that my my my team in the front office will get that preapproved and then once that's done we'll call you to help schedule that mri
 [doctor] okay alright thank you bye
 [patient] bye sorry","CHIEF COMPLAINT
-Headache.
-MEDICATIONS
 
-Patient reports history of headaches.
-
-REVIEW OF SYSTEMS
-
-Musculoskeletal: Reports headaches. Denies numbness or tingling to the hands or feet.
+Constitutional: Reports headaches.
 Neurological: Reports blurred vision.
+Skin: Reports numbness or tingling to the hands or feet.
+Musculoskeletal: Reports swelling of the bilateral lower extremities.
+
 PHYSICAL EXAM
 
-Constitutional: Normal sinus rhythm.
-Cardiovascular: Regular rate and rhythm. No murmurs.
 Respiratory
-- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
-Genitourinary
-- Examination of Abdomen: No enlarged lymph nodes. No thyromegaly. No clubbing. Normal gait. No strabismus.
-- Palpation of the tongue: No tenderness to palpation. No erythema, edema, or taste in the mouth. Normal sensation to pinprick. No hematoma, bruising, or discharge. No masses on the anterior or posterior turbinates. Normal vision. No papilledema.
+- Auscultation of Lungs: Clear bilaterally.
+Cardiovascular
+- Examination of Heart: Regular rate and rhythm. No murmurs, gallops, or rubs.
+- Neurological
+- Assessment of Abdomen: No masses, bruits, or masses. No papilledema. No tenderness to palpation in the periorbital area. Normal reflexes to light touch. No Babinski's sign. No light reflexes. No Horner's syndrome. No right-sided weakness. No facial weakness, numbness, or paresthesia
+
 RESULTS
 
-1. Cranial nerves: No bruits, ecchymosis, or exudates. No carot"
+1. Cranial nerves are intact bilaterally. 2. Right papilledema. 3. Right-sided hearing loss. 4. Tinnitus. 5. Right ear ringing. 6. blurred vision
+- Medical Reasoning: The patient states she has been struggling with headaches for years now. She has noticed that it has been getting"
 aci,D2N115,"[doctor] alright so hey it's nice to see you jack i know you've been experiencing some neck pain could you tell me what happened
 [patient] yeah so i was in a a car accident
 [doctor] mm-hmm
@@ -1712,13 +1678,17 @@ aci,D2N115,"[doctor] alright so hey it's nice to see you jack i know you've been
 [patient] no
 [doctor] alright thank you","CHIEF COMPLAINT
 
-Back pain.
+Left neck pain.
 
 MEDICAL HISTORY
 
-Patient reports playing football a few years ago. He denies any issues with his neck. He notes that he has tried some ibuprofen, but it does not seem to have helped. The patient states that the pain has been constant, but that it gets worse when he moves his head. He has a history of headaches, but denies these at this time.
-The patient has been taking ibuprofen, which has been helpful, but not enough. He reports that his pain has not improved over the past few months. He continues to experience positive pain with lateral bending and rotation, but is unable to turn his head from side to side. His examination reveals positive pain to palpation in the soft tissues of the neck. His electromyogram is also positive for neck strain, but no evidence of fracture or other musculoskeletal abnormalities.
-"
+Patient reports playing football a few years ago, but denies any issues with his neck. The patient states that he was in a car accident about a week ago and hit in the back and like his neck went forward and his head went forward really quick and so he has been having some pain ever since that time. He denies any hearing or visual disturbances.
+- Medical Reasoning: The patient reports that his pain has been staying the same for the past week, but he notes that when he moves his neck, his pain gets worse. He has tried some ibuprofen that helped a little bit but not too much
+- Patient Education and Counseling: I explained to the patient that it is not a constant pain but like whenever I move my head which is like a lot i feel it
+
+INSTRUCTIONS
+
+The patient will follow up with me in 2 weeks."
 aci,D2N116,"[doctor] hey hi bobby how are you doing
 [patient] i'm doing good how are you
 [doctor] i'm doing fine so i understand you're here having some left or some right shoulder pain that you've had for a few weeks now
@@ -1760,7 +1730,7 @@ Left shoulder pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Bobby Smith is a pleasant 60-year-old male who presents to the clinic today for the evaluation of left shoulder pain that has been present for a few weeks. The onset of his pain began when he was doing some work in his backyard and a lot of different projects going on. He notes that he was obviously sore over the next couple of days, but his right shoulder just keeps on bothering him and it keeps it's just really sore and it just has not been going away. The patient denies any pain in his left shoulder. He denies any numbness in his arm, hands, or feet. He does have a good hand grip, however, on neurovascular exam of his right arm, his capillary refill is less than 3 seconds. He reports that his sensation to light touch is slightly diminished. He has a history of right shoulder pain when he played baseball when his age was younger. He states that this has improved with ice and cortisone injections. He also reports taking some advil and icing as much as he can. He is doing quite a variety of projects."
+Bobby Smith is a pleasant 60-year-old male who presents to the clinic today for the evaluation of left shoulder pain that has been present for a few weeks. The onset of his pain began when he was doing some work in his backyard and a lot of different projects were going on. He notes that he was obviously sore all over the next couple of days, but his right shoulder just keeps on bothering him and it keeps it's just really sore and it just has not been going away. The patient denies any numbness in his arm or hands. He denies any sore throat. He has a history of playing baseball at the age of 14. He reports that his wife put him on a laundry lift when she got a laundry. He states he has limited active and passive range of motion of the right shoulder. His capillary refill is less than 3 seconds, and his sensation to light touch is slightly diminished. There is some tenderness on the outside of his shoulder when he raises his arm up, but this does not appear to be related to"
 aci,D2N117,"[doctor] mister jackson is a 45 -year-old male who has a history of diabetes type two and mild intermittent asthma and he is here today with right elbow pain so hey there mark nice to see you again listen sorry you're having some elbow pain let's talk about it but i would like to record this conversation with this cool app that i'm using that's gon na help me focus on you a bit more would that be alright with you
 [patient] yeah that sounds great
 [doctor] okay great so mark tell me about your right elbow pain what's been happening
@@ -1822,7 +1792,11 @@ Right elbow pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Mr. Jackson is a 45 -year-old male who has a history of diabetes type 2 and mild intermittent asthma. He is here today with right elbow pain that has been worsening for the last 3 weeks. He notes that he has been playing a lot of tennis recently buddy of mine has advised him to get off the couch and be more active so he has just joined a country club. He has been hitting hitting the cord a lot more and it has just been killing him. He denies any trauma recently falling on his elbow. The patient has taken Tylenol and Ibuprofen but as soon as those wear off it comes right back so they do not really help. He does ice his elbow but he does not try to ice it more. He states he has a good memory of his elbow pain from the past 100 years. He recalls that was a state champ in high school. He describes the pain as stabbing, aching, and throbbing. The pain radiates anywhere like down to his arm up to your shoulder"
+Mr. Jackson is a 45 -year-old male who has a history of diabetes type 2 and mild intermittent asthma. He is here today with right elbow pain that has been worsening for the last 3 weeks. He notes that he has been playing a lot of tennis recently. His buddy of the patient asked him if he wanted to go play more. He states he just joined a country club and has been hitting hitting the cord a lot more and it has just been killing him. He has taken Tylenol and Ibuprofen but as soon as those wear off it comes right back so they do not really help
+
+MEDICAL HISTORY
+
+Patient reports history of left elbow pain approximately 100 years ago. He recalls that was a state champ in high school but he did not try to play like that anymore. He denies any trauma recently falling on his elbow or feeling a pop anywhere. The patient states he has a good memory of his high school baseball game. He reports that his masters are a golfer. He describes the pain"
 aci,D2N118,"[doctor] alright so how're you doing today angela
 [patient] i'm doing pretty well
 [doctor] alright so looking here at your appointment notes it says you're you're here you think you have a kidney stone you had some in the past so we're gon na take a look at that and then you also have a past medical history of hypertension and diabetes we want to take a look at those as well so first thing what's going on with your kidneys you as what how long ago have you been feeling pain and and how's all that
@@ -1936,25 +1910,9 @@ Kidney stone.
 
 MEDICAL HISTORY
 
-Patient reports history of hypertension and diabetes
-
-REVIEW OF SYSTEMS
-
-Constitutional: Denies fever, chills, or weight loss.
-Gastrointestinal: Reports abdominal pain.
-VITALS
-
-PHYSICAL EXAM
-
-Respiratory
-- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
-Cardiovascular
-- Examination of Heart: Regular rate and rhythm. No murmurs, gallops, or rubs.
-- Blood Pressure: 130/80 mmHg
-
-RESULTS
-
-X-ray of the abdomen shows a 7/8 kidney stone in the right kidney. There is no evidence of any signs of acute kidney injury. No blood in urine. No stones were noted on urinalysis at this time. The patient reports that she has been taking Norvasc 2.5 mg 3 times a week. She is doing well at home with her blood pressure usually between 30 to 40/70 mmHg. She denies any blood in her urine. She states that her pain has been up and down for the past"
+Patient reports history of hypertension and diabetes.
+- Medical Reasoning: The patient has a past medical history of kidney stones. The patient states that she has had some in the past, however, it is hard to give up the fast food altogether because it's a lot of on the go. She has been taking Norvasc 2.5 mg 3 times a week. She reports that at home her blood pressure is always high. She denies any blood in her urine, but notes that her pain has been up and down for the last week but now i think she is doing a little bit better. She states she has a history of white coat syndrome, which has been managed by her provider. She also reports she has been able to get that under control by her diet.
+"
 aci,D2N119,"[doctor] hey betty how are you doing
 [patient] i'm doing okay i just been really frustrated because with my asthma and it just seems like i can never catch a break never get better i'm always it seems like i'm always coughing and wheezing
 [doctor] i'm sorry to hear that what normally triggers your asthma type symptoms
@@ -2011,8 +1969,7 @@ Asthma.
 
 MEDICAL HISTORY
 
-Patient reports history of allergies to cats, dogs, cats, and dogs. He denies any hay fever, haybear, or hay fever-like symptoms. He has been frustrated with his asthma for the past 6 months. The patient states that it occurs almost every month or every other month. He notes that when he gets sick with a cold he almost always knows that his asthma is going to flare. He did notice one time though that he went to his aunt's house and had a flare afterwards and he thought it was because of her cat so he tried to avoid going there and has not really had an issue since then. He is currently using albuterol 2 puffs twice daily. He also uses a prednisone taper pack that works. He reports that almost everyday he feels like he is using his inhaler because he is always coughing and wheezing and a couple of times a week he wakes up as a result of these breathing type problems. His primary care provider and urgent care provider also give him a large dose over 5 days.
-"
+Patient reports that she has been frustrated with her asthma for the past 6 months. She states that her asthma flares when she goes to her aunt's house. She denies any allergies. She has tried to avoid going there and has not had an issue since she was 8 years old. The patient has been using her albuterol inhaler almost everyday, but it does not seem to provide enough relief. She also tries to use her prednisone taper pack, but she does not remember the exact number of this past year. Her primary care provider and urgent care provider have also provided medications for her asthma, but they do not always give her a large dose over 5 days. She notes that it is somewhat a lot how frequently does this occur that they make me think her asthma is going to flare every month or every other month. For the last 6 months, she has had several exacerbations, but only one of these has been severe enough to require hospitalization. She mentions that when she is young, she thought she had a seasonal exacerbation"
 aci,D2N120,"[doctor] hello larry how are you doing today
 [patient] i've been better my primary care doctor wanted me to see you for this back pain that i've been having for a couple of years now
 [doctor] okay
@@ -2064,9 +2021,20 @@ aci,D2N120,"[doctor] hello larry how are you doing today
 
 Back pain.
 
-HISTORY OF PRESENT ILLNESS
+MEDICAL HISTORY
 
-Larry Collins is a pleasant 60-year-old female who presents to the clinic today for the evaluation of back pain. She reports that she has been experiencing back pain for a couple of years. The onset of her pain began when she was moving furniture one weekend ago. She states that it was sharp stabbing pain in her back and it does go down even down to her right leg. She also feels like she is unable to get comfortable when she sits down. She has gained some weight over the past few years. She denies any loss of sensation in the genital or rectal area. She does experience numbness and tingling associated with her right lower extremity. The patient denies any weakness or loss of control of her bladder or bowels. She is doing well on physical therapy, however, when her pain gets really bad, the patient has been prescribed strong pain medications for her that do not provide adequate relief. She notes that her back pain has been difficult to manage with physical activity. She tries to be as active as she can but of course it"
+Patient reports that she has been better her primary care doctor wanted me to see him for this back pain that I've been having for a couple of years now. She states she has tried so many things and just nothing seems to work
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right-sided back pain. Denies numbness, tingling, or loss of sensation in the genital or rectal area
+
+PHYSICAL EXAM
+
+Respiratory
+- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
+- Examination of Abdomen: There is midline tenderness at the level of the right L4-5 disk space. There is no overlying erythema or ecchymosis. No pain to palpation of L4 or L5. No patellar tendon reflexes are present. Positive L4/5 touch test. No L5/S1 touch sensation bilaterally. Tenderness to pressure over the L4 and L5 disk spaces.
+"
 aci,D2N121,"[patient] hi kenneth how are you the medical assistant told me that you had some knee pain yeah i was getting ready for the holiday weekend and i was out on my boat skiing and i i did a jump and kinda twisted when i landed and my knee has been hurting me ever since
 [doctor] okay so that was about five days ago then
 [patient] yeah yeah that was last weekend
@@ -2111,9 +2079,13 @@ aci,D2N121,"[patient] hi kenneth how are you the medical assistant told me that 
 
 Right knee pain.
 
-MEDICAL HISTORY
+HISTORY OF PRESENT ILLNESS
 
-The patient is a frequent water skier. She reports that she was getting ready for the holiday weekend and she was out on a motor boat as she was doing so she did a jump and kinda twisted when she landed and her knee has been hurting her ever since that time. The onset of her pain began approximately 5 days ago. She denies any pain with stretching or twisting of her right knee. She has been taking lisinopril 20 mg twice a day and checks her blood pressure at home every day. The patient denies any numbness or tingling in her foot. She is a baseball fan but she loves spring and chicken time of year launds of outdoor activities nice nice. She states that her husband watches the meds all the time so he is always upset so she tries to get out of the water by herself or did she need some assistance at this time, but she does not have any trouble with it. She also has a history of tonsillectomy and adenoidectomy, which has helped her with her pain. She takes lisinopril"
+The patient is a frequent water skier. She reports that she was getting ready for the holiday weekend and she was out on a motor boat as she was doing a jump and kinda twisted when she landed. She has been hurting her right knee since that time. The onset of her pain began about 5 days ago, however, she denies any history of trauma or surgery. The patient states she has been taking lisinopril 20 mg twice a day and checks her blood pressure at home every day. She denies any numbness or tingling in her foot. She notes that it is very sore to climb up and any kind of squatting or bending is really pretty sore
+
+MEDICATIONS
+
+Patient reports she is doing a good job managing her high blood pressure. She is taking Lisinopril 20 mg once a day. Her blood pressure has been checked at home and it has been about one twenty over seventy seven on most of the days. She does not have any trouble with it. She states she is not a baseball fan but she loves spring and"
 aci,D2N122,"[doctor] hey kyle it's nice to see you today can you tell me a little bit about what brought you in
 [patient] yeah i went to see my pcp for a cough which they diagnosed as bronchitis but then they did that chest x-ray to make sure i did n't have pneumonia and they found this lung nodule i went for a cat scan that confirmed it and they referred me here to you i'm really nervous document
 [doctor] okay well first of all i'm i'm sorry that you're nervous and what we're gon na do is we're gon na partner together okay and i'm gon na be right by your side the whole time to hopefully make you a little less nervous and and recognize the fact that we're you're gon na have a big support team around you okay
@@ -2149,9 +2121,22 @@ aci,D2N122,"[doctor] hey kyle it's nice to see you today can you tell me a littl
 
 Bronchitis.
 
-HISTORY OF PRESENT ILLNESS
+MEDICAL HISTORY
 
-Kennedy Collins is a pleasant 60-year-old female who presents to the clinic today for a cough. The patient was referred by her primary care physician (PCP) for evaluation of a cough which they diagnosed as bronchitis but then they did that chest x-ray to make sure she did not have pneumonia and they found this lung nodule over the right upper lobe. The CT scan confirmed the nodule. The woman was a previous smoker and when she stopped smoking approximately 7 years ago, she was young and should have stopped the way before that her kids were on me all the time but she got a new start and finally was able to stop and felt better after stopping. She has a history of rheumatoid arthritis. She typically does exercise and bikes a lot. She reports that as long as she is keeping active her joints feel okay and if i do have any problems it's it is mostly with her hands but i have not had any recent flares. She also takes methotrexate 7 and a half milligrams every week."
+Patient reports she is a former smoker who has stopped smoking about 7 years ago. She reports that she was young and was on her kids all the time when she began to stop smoking. She also has a history of rheumatoid arthritis, which she typically does well as long as she is keeping active and if she does have any problems it is mostly with her hands but it has not had any recent flares. The patient reports she has a track seventy one hundred hybrid trails type today. She states she rides over there a lot of time and loves to bike. She denies any pain, shortness of breath, or anything like that at this time
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fevers, chills, or weight loss.
+Cardiovascular: Reports dyspnea on exertion.
+Musculoskeletal: Reports joint pain.
+Neurological: Reports fatigue.
+Genitourinary: Reports headaches.
+Respiratory: Reports cough.
+PHYSICAL EXAM
+
+Neck
+- General Examination: No carotid bruits"
 aci,D2N123,"[doctor] so tyler is a 56 -year-old male who presents today complaining of difficulty swallowing and has a past medical history of diabetes and high blood pressure so tyler tell me what's going on with your swallowing problem
 [patient] well it's just been something that i have noticed over the last you know four to five weeks it seems like something is always stuck in my throat and you know just i kinda go about my day and it kinda bothers me you know a little bit sometimes a little painful and when i try to eat it just seems like i have to i do n't know when it's something solid i kinda have to wash it down on occasion i i've never really fully choked but i have to admit that i've thought about potentially choking
 [doctor] okay and is it seem to be stuck in your throat or does it seem to go in your lungs area or are you coughing with this at all or just mostly when you're swallowing
@@ -2188,13 +2173,14 @@ aci,D2N123,"[doctor] so tyler is a 56 -year-old male who presents today complain
 
 Difficulty swallowing.
 
-HISTORY OF PRESENT ILLNESS
+MEDICAL HISTORY
 
-Mr. Tyler is a 56-year-old male who presents today complaining of difficulty swallowing and has a past medical history of diabetes and high blood pressure. The patient reports that he has noticed something that has been occurring over the last 4 to 5 weeks. He notes that it sounds like something is stuck in his throat and he is unable to swallow normally. He states that when he swallows, it is a little bit painful and when he tries to eat it, it just seems like he has to push it down. When it is something solid, he feels like he just needs a little help pushing it down on occasion. He denies any chest pain or shortness of breath with this. He has been taking metformin 500 mg twice a day and feels pretty good. He does not have any blood in his stools or vomiting. He is not checking his blood sugars in the morning or are he checking those at all at this time. His hemoglobin a1c is 7%.
+Patient reports a history of diabetes and high blood pressure. He is a 56 -year-old male who presents today complaining of difficulty swallowing. The patient notes that he has noticed something that i have noticed over the last 4 to 5 weeks it seems like something is always stuck in his throat. He states that it is a little bit painful and when he tries to eat it, it just seems like he has to push it down on occasion. He denies any chest pain or shortness of breath with this. He has been taking metformin 500 mg twice a day and feels pretty good otherwise. He notes he has been checking his blood sugars in the morning and is not checking those at all. He reports that when he swallows, he vomits blood in his stools. He does not have chest pain, but he does occasionally cough with the swallowing of solids.
+The patient denies any nausea, vomiting, diarrhea, or any other side effects from the metformin or anything like that
 
 REVIEW OF SYSTEMS
 
-Musculos"
+Musculoskeletal: Reports"
 aci,D2N124,"[doctor] so jerry is a 45 -year-old male who came in today with an ankle injury jerry what happened
 [patient] hey doctor michael yeah so my son sean i think you met in the past he he started playing basketball and there we do multiple seasons and so we're kinda getting ready for the next season that starts in in april and we were at the courts plan and i went up for a shot and he's far more aggressive than with me than he is with you know his peers i guess he could say and so he he found me while i was going for a lap and then when i came down i kind of landed awkwardly and i kind of like rolled and twisted my my ankle so now it's it's hurting a bit like kind of on the outside you can you can even see it's it's bruised up and a bit swollen
 [doctor] yeah
@@ -2225,11 +2211,11 @@ aci,D2N124,"[doctor] so jerry is a 45 -year-old male who came in today with an a
 [patient] alright thank you doctor
 [doctor] alright thanks","CHIEF COMPLAINT
 
-Right ankle injury.
+Right ankle lateral malleolar fracture.
 
 HISTORY OF PRESENT ILLNESS
 
-Mr. John Smith is a 45-year-old male who presents today with an ankle injury that he sustained while going for a lap. He was found while he was going to get a lap and landed awkwardly and then rolled and twisted his ankle. The patient reports that his ankle feels unstable. He has been having trouble walking and it does not feel solid. He notes that it takes a lot for him to return to a good place. He is a big step kurry fan so he likes to keep up shots from from way out past the 3 point line and he is only ten and tiny so it is not a good idea to disrupt that moments on because it is likely to possibly injure it more. He states he is doing well and enjoys every sport and basketball. He enjoys playing with his buddies. He reports he has a sport and loves and couple of his buddies playing to lead with him so it makes him happy that this is his favorite sport. He denies any pain or swelling at this time."
+Mr. John is a 45 -year-old male who came in today with an ankle injury. He was found while he was going for a lap and then when he came down he landed awkwardly and twisted his ankle. He reports that he has been having trouble walking and feels unstable. He notes that it took a lot for him to get back to a good place. The patient states he has tried every sport and basketball and enjoys playing with his buddies. He is a big step kurry fan so he likes to keep up shots from from way out past the three point line and he is only ten and tiny so it is not a good idea for his to do that but he is doing really well and I is happy he is back out on the court playing with him. He states that his ankle feels stable but it does not feel particularly solid. The x-ray shows a displaced lateral malleolus at the Weber c level. There is no evidence of medial or posterior malleolar fractures but this"
 aci,D2N125,"[patient] miss edwards is here for evaluation of facial pain this is a 54 -year-old male
 [doctor] how're you doing doctor cruz nice to see you today
 [patient] good to see you mister edwards i'm doctor
@@ -2284,12 +2270,12 @@ aci,D2N125,"[patient] miss edwards is here for evaluation of facial pain this is
 [doctor] okay sounds good so if you want to send that prescription over to my pharmacy that would be fine and then why do n't i come back in about a month and we'll go from there
 [patient] great i'll see you then
 [doctor] alright","CHIEF COMPLAINT
+
 Right cheek bone pain.
 
 HISTORY OF PRESENT ILLNESS
 
-Mr. Edwards is a 54 -year-old male who presents to the clinic today for evaluation of right cheek bone stabbing pain. The onset of his pain began 2 months ago, however, he noticed that it sometimes gets super hot. He initially tried ibuprofen and motrin that did not help, so he went to his family physician and he was referred to a neurosurgeon for further evaluation. The patient reports that his pain usually lasts for a few minutes, but sometimes it can last up to an hour. He denies any sensory loss meaning like numbness or tingling in that part of his face. He also denies any history of migraines or other headache symptoms. He does however report occasional headaches when he takes tylenol.
-"
+Mr. Edwards is a 54 -year-old male who presents to the clinic today for evaluation of facial pain. The onset of his pain began approximately 2 months ago. He reports that he has had episodes of stabbing shooting pain in his right cheek bone area, sometimes it gets super hot. He has tried ibuprofen and motrin, but it does not help. He occasionally takes Tylenol, but this does not usually go away. The patient has a history of migraines but not really related to his headaches. He notes that occasionally he gets headaches with tylenol that usually goes away. He denies any sensory loss meaning like numbness or tingling in that part of his face. He states that when he smiles his smile is equal on both sides his eyes appear unchanged. He does not have any symptoms like this anywhere else on his face including the other side of the face. His vision seems to be unchanged but just this stabbing severe pain it's just like excruciating pain that i get sometimes does it happen on its own or"
 aci,D2N126,"[doctor] hi michelle what's been going on the medical assistant told me that you injured your knee
 [patient] yeah i'm gon na have to keep this my favorite story is that i had a sandra who injured her knee cold dancing so that would immediately came up to mine but let's try skiing so i was skiing in vermont last weekend and i caught my ski when i was coming off the lift and i fell and my knee popped and it's hurt ever since
 [doctor] okay and were you able to ski down the hill or did you have to be taken down by the ski patrol
@@ -2335,18 +2321,12 @@ aci,D2N126,"[doctor] hi michelle what's been going on the medical assistant told
 [doctor] okay alright so i'll see you again soon okay
 [patient] okay thank you
 [doctor] alright take care bye","CHIEF COMPLAINT
+
 Right knee pain.
 
-HISTORY OF PRESENT ILLNESS
+MEDICAL HISTORY
 
-The patient was a sandra who injured her right knee while cold dancing last month. She reports that she has been unable to bear weight since the injury. She denies any numbness or tingling in her right toes. The patient denies a history of diabetes or heart disease, but notes that her husband works in a job where he is gone quite a bit. She is a pretty active person and enjoys hiking and chasing her two 4-year-old children. On examination, there is pain to palpation of the right lateral knee. Decreased flexion and extension. Positive lachman sign. There is a palpable palpable dorsalis pedis and posterior tibial pulse. No leg edema in the ankle. Her right knee is able to bend slightly but it hurts when she tries to straighten all the way
-
-REVIEW OF SYSTEMS
-
-Cardiovascular: Regular rate and rhythm.
-Respiratory: Clear to auscultation.
-Musculoskeletal: Reports right knee pain and limping.
-Neurological: Denies right foot numbness or"
+The patient reports she was skiing last weekend and caught her ski when she was coming off the lift. She fell and popped her right knee. She reports that she has been unable to bear weight since the injury. She denies any numbness or tingling in her toes. The patient has a history of twins and works a job where she is gone quite a bit so it is just me and the kids. She is a pretty active person who is doing some kind of other activities, but she is still doing that kind of hobbling around on crutches. Her blood pressure is normal and she has no high blood pressure diabetes. The x-ray of the right knee shows no evidence of a torn anterior cruciate ligament or any other bony abnormality. She states that it hurts on the outside but it also feels like it is buckled. She does have some edema in the ankle, but there is no leg edema in her right leg. Her right knee is pain to palpation over the lateral aspect of her knee, and it hurts when she presses her right lateral knee."
 aci-39,D2N127,"[doctor] hey brandon you know glad to see you in here today i see on your chart that you're experiencing some neck pain could you tell me a bit about what happened
 [patient] yeah i was in a car crash
 [doctor] wow okay when was that
@@ -2429,9 +2409,12 @@ aci-39,D2N127,"[doctor] hey brandon you know glad to see you in here today i see
 [patient] not right now
 [doctor] alright","CHIEF COMPLAINT
 
-Headache.
+Chronic neck pain.
+
+HISTORY OF PRESENT ILLNESS
+
+Brandon is a pleasant 53-year-old female who presents to the clinic today for the evaluation of chronic neck pain after she was involved in a car crash in February of the past year. The patient reports that she has been experiencing some neck pain since then. She states she was in therapy for a few months but has not been able to move due to stiffness. She denies any headaches, dizziness, or vision disturbances. She has a history of previous car crashes and has been prescribed fentanyl recently. She reports she has not received a prescription for this medication for several weeks. She notes that after the third crash, she had surgery but she was fine until this crash
 
 MEDICAL HISTORY
 
-Patient reports history of three car crashes in the past. She has been in therapy for the second crash and the third in february. She reports that she was fine after the surgery but she was unable to move due to severe neck pain. She denies any headaches, dizziness, or visual disturbances. She does report numbness in her left arm and right leg. The patient states she has been experiencing terrible neck pain since then. She states she had a car crash in February of the year and that it was her fault or all of them. She was prescribed fentanyl recently, but she has not gotten a prescription for several weeks.
-"
+Patient reports she had three car crashes in the last year. She is currently experiencing neck pain and back pain, but the most recent crash was in february, which was when she was coming home from the pain clinic because her neck hurt and her back hurt but that was not until she had a chainaw cut off by a chains"
