@@ -11,8 +11,7 @@ Please go through the following steps for setup.
 
 1. Download data
 
-Please download from figshare link:
-[FINAL DOI LINK TO BE ADDED HERE]
+Please download from figshare link: https://doi.org/10.6084/m9.figshare.22494601 
 
 Then please move the data into the project directory under as data/
 
